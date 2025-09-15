@@ -35,7 +35,7 @@ bysort ODD: egen ODD_index = mean(score) */
 
 egen ODD_global = mean(score)
 
-di ODD_global
+
 
 
 
