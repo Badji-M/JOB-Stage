@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.16)  18 SEP 2025 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.16)  18 SEP 2025 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,43 +1278,10 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 )
 \esp=\skip171
 \ecart=\skip172
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.432 \setlength\ecart{1.2cm-\esp}
-                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.432 \setlength\ecart{1.2cm-\esp}
-                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.432 \setlength\ecart{1.2cm-\esp}
-                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 Package hyperref Info: Option `colorlinks' set `false' on input line 533.
 Package hyperref Info: Option `breaklinks' set `true' on input line 533.
 Package hyperref Info: Option `bookmarksopen' set `false' on input line 533.
+
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
@@ -1621,6 +1588,15 @@ File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 104.
 (pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
  (main.toc
+Overfull \hbox (3.95125pt too wide) in paragraph at lines 2--2
+ []\T1/pag/db/n/14.4 (-20) I 
+ []
+
+
+Overfull \hbox (3.95125pt too wide) in paragraph at lines 2--2
+ []\T1/pag/db/n/14.4 (-20) I 
+ []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -1643,6 +1619,16 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
 
  <./Pictures/chapter_head_1.pdf>]
+Overfull \hbox (7.9025pt too wide) in paragraph at lines 49--49
+ []\T1/pag/db/n/14.4 (-20) II 
+ []
+
+
+Overfull \hbox (7.9025pt too wide) in paragraph at lines 49--49
+ []\T1/pag/db/n/14.4 (-20) II 
+ []
+
+
 Overfull \hbox (3.99596pt too wide) in paragraph at lines 49--49
  [][][][][][][]| 
  []
@@ -2072,11 +2058,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39421 strings out of 468132
- 776475 string characters out of 5432143
- 1757006 words of memory out of 5000000
+ 39422 strings out of 468132
+ 776484 string characters out of 5432143
+ 1757005 words of memory out of 5000000
  66713 multiletter control sequences out of 15000+600000
- 780585 words of font info for 514 fonts, out of 8000000 for 9000
+ 780681 words of font info for 515 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,15n,94p,1199b,2877s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -2099,7 +2085,7 @@ MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKT
 eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/
 fonts/type1/urw/times/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (38 pages, 21937686 bytes).
+Output written on main.pdf (38 pages, 21937690 bytes).
 PDF statistics:
  782 PDF objects out of 1000 (max. 8388607)
  158 named destinations out of 1000 (max. 500000)
