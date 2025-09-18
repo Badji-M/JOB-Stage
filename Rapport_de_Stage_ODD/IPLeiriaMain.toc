@@ -1,0 +1,37 @@
+\babel@toc {english}{}\relax 
+\contentsline {frontmatter}{List of Figures}{xii}{listoffigures}%
+\contentsline {frontmatter}{List of Tables}{xiv}{listoftables}%
+\contentsline {frontmatter}{Glossary}{xvi}{glossary}%
+\contentsline {frontmatter}{Acronyms}{xviii}{acronym}%
+\contentsline {frontmatter}{Symbols}{xx}{symbol}%
+\contentsline {chapter}{\numberline {1}Introduction to the Template: Motivation and First Steps}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Getting Started}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Getting Help}{1}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Issues, Feature Request and Suggestions}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}In-Built Comments, Guidance Texts and Warnings}{2}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Important Notices}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Comprehensive User Guide: Instructions for Using the Template}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Template and Class Options}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Metadata Customisation}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Custom Chapter Insertion}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Custom Commands}{5}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Essential LaTeX Tutorial: Fundamentals and Key Concepts}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Citations}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}References}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Glossary, Acronyms and Symbols}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Figures}{6}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Tables}{8}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Tabular Environment}{8}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Tabularx Environment}{8}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Longtable Environment}{8}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Complex Tables}{9}{subsection.3.5.4}%
+\contentsline {section}{\numberline {3.6}Lists}{9}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Code Listings}{11}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Equations}{12}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Footnotes}{13}{section.3.9}%
+\contentsline {chapter}{Appendices}{}{}
+\contentsline {chapter}{\numberline {A}Showcasing the First Appendix}{18}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Showcasing the Second Appendix}{19}{appendix.B}%
+\contentsline {chapter}{Annexes}{}{}
+\contentsline {chapter}{\numberline {L}Showcasing the First Annex}{23}{appendix.L}%

@@ -1,0 +1,563 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ANSD_EHCVM_2018_2019}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90068f56251ab1ed21422fcfb9e68593}{%
+           family={{ANSD}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Agence Nationale de la Statistique et de la Démographie}%
+      }
+      \strng{namehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{bibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorbibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authornamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2018-2019}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.ansd.sn/sites/default/files/2020-07/Rapport_EHCVM_2018-2019.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ansd.sn/sites/default/files/2020-07/Rapport_EHCVM_2018-2019.pdf
+      \endverb
+    \endentry
+    \entry{ANSD_EDSC_2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90068f56251ab1ed21422fcfb9e68593}{%
+           family={{ANSD}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Agence Nationale de la Statistique et de la Démographie}%
+      }
+      \strng{namehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{bibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorbibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authornamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Enquête Démographique et de Santé Continue 2023 (EDS-C 2023)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ansd.sn/sites/default/files/2024-06/EDS-C_2023-indicateurs-cles.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ansd.sn/sites/default/files/2024-06/EDS-C_2023-indicateurs-cles.pdf
+      \endverb
+    \endentry
+    \entry{ANSD_ENRVFFS_2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90068f56251ab1ed21422fcfb9e68593}{%
+           family={{ANSD}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Agence Nationale de la Statistique et de la Démographie}%
+      }
+      \strng{namehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{fullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{bibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorbibnamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authornamehash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhash}{90068f56251ab1ed21422fcfb9e68593}
+      \strng{authorfullhashraw}{90068f56251ab1ed21422fcfb9e68593}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Enquête Nationale sur les Violences Faites aux Femmes et aux Filles 2023 (ENR-VFFS 2023)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ansd.sn/sites/default/files/2024-07/Rapport-tableaux-EDS-C_2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ansd.sn/sites/default/files/2024-07/Rapport-tableaux-EDS-C_2023.pdf
+      \endverb
+    \endentry
+    \entry{bm2015}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d6f1c67f5dfd0c6deaf49f5b799b0ba}{%
+           family={{Banque Mondiale}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banque Mondiale}%
+      }
+      \strng{namehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{bibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorbibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authornamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Accès à l’eau potable et OMD au Sénégal}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.topnews.sn/desserte-en-eau-potable-en-milieu-urbain
+      \endverb
+      \verb{url}
+      \verb https://www.topnews.sn/desserte-en-eau-potable-en-milieu-urbain
+      \endverb
+    \endentry
+    \entry{BanqueMondiale2022}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d6f1c67f5dfd0c6deaf49f5b799b0ba}{%
+           family={{Banque Mondiale}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banque Mondiale}%
+      }
+      \strng{namehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{bibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorbibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authornamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Indicateurs macroéconomiques du Sénégal}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://donnees.banquemondiale.org/pays/senegal
+      \endverb
+      \verb{url}
+      \verb https://donnees.banquemondiale.org/pays/senegal
+      \endverb
+    \endentry
+    \entry{BM_KNOMAD_2022}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d6f1c67f5dfd0c6deaf49f5b799b0ba}{%
+           family={{Banque Mondiale}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {KNOMAD / Banque Mondiale}%
+      }
+      \strng{namehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{fullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{bibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorbibnamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authornamehash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhash}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \strng{authorfullhashraw}{1d6f1c67f5dfd0c6deaf49f5b799b0ba}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Migration and Development Brief – Remittances Data 2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.knomad.org/publication/migration-and-development-brief-2022
+      \endverb
+      \verb{url}
+      \verb https://www.knomad.org/publication/migration-and-development-brief-2022
+      \endverb
+    \endentry
+    \entry{eca2015}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7da596ac1330625ed85ac1992638add}{%
+           family={{Commission économique pour l’Afrique}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {CEA}%
+      }
+      \strng{namehash}{e7da596ac1330625ed85ac1992638add}
+      \strng{fullhash}{e7da596ac1330625ed85ac1992638add}
+      \strng{fullhashraw}{e7da596ac1330625ed85ac1992638add}
+      \strng{bibnamehash}{e7da596ac1330625ed85ac1992638add}
+      \strng{authorbibnamehash}{e7da596ac1330625ed85ac1992638add}
+      \strng{authornamehash}{e7da596ac1330625ed85ac1992638add}
+      \strng{authorfullhash}{e7da596ac1330625ed85ac1992638add}
+      \strng{authorfullhashraw}{e7da596ac1330625ed85ac1992638add}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Évaluation des OMD en Afrique}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://repository.uneca.org/handle/10855/28979
+      \endverb
+      \verb{url}
+      \verb https://repository.uneca.org/handle/10855/28979
+      \endverb
+    \endentry
+    \entry{fao2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
+           family={{FAO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhashraw}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhashraw}{4807e0aebe86c17f559853f35515b533}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Le Sénégal atteint la cible du premier OMD}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.agenceecofin.com/gestion-publique/2909-32725
+      \endverb
+      \verb{url}
+      \verb https://www.agenceecofin.com/gestion-publique/2909-32725
+      \endverb
+    \endentry
+    \entry{ipar2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=23d044844f9c38e6d090f129d20c5b41}{%
+           family={{IPAR}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{fullhash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{fullhashraw}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{bibnamehash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{authorbibnamehash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{authornamehash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{authorfullhash}{23d044844f9c38e6d090f129d20c5b41}
+      \strng{authorfullhashraw}{23d044844f9c38e6d090f129d20c5b41}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Les montants de l’APD ont été insuffisants pour l’atteinte des cibles}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://ipar.sn/les-montants-de-lapd-ont-ete-insuffisants-pour-latteinte-des-cibles
+      \endverb
+      \verb{url}
+      \verb https://ipar.sn/les-montants-de-lapd-ont-ete-insuffisants-pour-latteinte-des-cibles
+      \endverb
+    \endentry
+    \entry{lo2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07697dfbd49442b991a3c3ba036d0dba}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Moubarack},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{fullhash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{fullhashraw}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{bibnamehash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{authorbibnamehash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{authornamehash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{authorfullhash}{07697dfbd49442b991a3c3ba036d0dba}
+      \strng{authorfullhashraw}{07697dfbd49442b991a3c3ba036d0dba}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Non, le Sénégal n’a pas réalisé l’OMD 1}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.leral.net/Non-le-Senegal-n-a-pas-realise-l-OMD-1-Par-Moubarack-Lo_a155193.html
+      \endverb
+      \verb{url}
+      \verb https://www.leral.net/Non-le-Senegal-n-a-pas-realise-l-OMD-1-Par-Moubarack-Lo_a155193.html
+      \endverb
+    \endentry
+    \entry{un2000}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1bdd5c50469b844b5b5f19d387c0135}{%
+           family={{Nations Unies}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{fullhash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{fullhashraw}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{bibnamehash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{authorbibnamehash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{authornamehash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{authorfullhash}{b1bdd5c50469b844b5b5f19d387c0135}
+      \strng{authorfullhashraw}{b1bdd5c50469b844b5b5f19d387c0135}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Objectifs du Millénaire pour le Développement : Déclaration du Millénaire}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://www.un.org/fr/millenniumgoals
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/fr/millenniumgoals
+      \endverb
+    \endentry
+    \entry{who2015}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=294b20dbf3598eb9e06cba70f1fea0c9}{%
+           family={{Organisation mondiale de la santé}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {OMS}%
+      }
+      \strng{namehash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{fullhash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{fullhashraw}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{bibnamehash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{authorbibnamehash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{authornamehash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{authorfullhash}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \strng{authorfullhashraw}{294b20dbf3598eb9e06cba70f1fea0c9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Rapport sur les Objectifs du Millénaire pour le Développement}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.who.int/fr/news-room/fact-sheets/detail/millennium-development-goals-%28mdgs%29
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/fr/news-room/fact-sheets/detail/millennium-development-goals-%28mdgs%29
+      \endverb
+    \endentry
+    \entry{article_key}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=26a8b4a95216218b2dfc1460f6d4c494}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{location}{1}{%
+        {City}%
+      }
+      \list{publisher}{1}{%
+        {Publisher}%
+      }
+      \strng{namehash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{fullhash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{fullhashraw}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{bibnamehash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{authorbibnamehash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{authornamehash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{authorfullhash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{authorfullhashraw}{26a8b4a95216218b2dfc1460f6d4c494}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{number}{6}
+      \field{title}{Article title}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{book_key}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{location}{1}{%
+        {City}%
+      }
+      \list{publisher}{1}{%
+        {Publisher}%
+      }
+      \strng{namehash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{fullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{fullhashraw}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{bibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{authorbibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{authornamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{authorfullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \strng{authorfullhashraw}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{month}{1}
+      \field{series}{2}
+      \field{title}{Book title}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{123\bibrangedash 200}
+      \range{pages}{78}
+    \endentry
+    \entry{SDR2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7f1a4eb6462d958a47411cd7a792a51}{%
+           family={{Sustainable Development Solutions Network}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SDSN}%
+      }
+      \strng{namehash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{fullhash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{fullhashraw}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{bibnamehash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{authorbibnamehash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{authornamehash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{authorfullhash}{a7f1a4eb6462d958a47411cd7a792a51}
+      \strng{authorfullhashraw}{a7f1a4eb6462d958a47411cd7a792a51}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Sustainable Development Report 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.sdgindex.org/reports/sustainable-development-report-2025/
+      \endverb
+      \verb{url}
+      \verb https://www.sdgindex.org/reports/sustainable-development-report-2025/
+      \endverb
+    \endentry
+    \entry{Transparency2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6cb082f4fcbcc78cedd8a9a0e6bea3d2}{%
+           family={{Transparency International}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Transparency International}%
+      }
+      \strng{namehash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{fullhash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{fullhashraw}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{bibnamehash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{authorbibnamehash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{authornamehash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{authorfullhash}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \strng{authorfullhashraw}{6cb082f4fcbcc78cedd8a9a0e6bea3d2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 15 septembre 2025}
+      \field{title}{Corruption Perceptions Index 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.transparency.org/en/cpi/2024/index/nzl
+      \endverb
+      \verb{url}
+      \verb https://www.transparency.org/en/cpi/2024/index/nzl
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
