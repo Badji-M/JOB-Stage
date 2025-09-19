@@ -24,7 +24,7 @@ replace test=. if missing(score)
 
 drop if score == . | test == 1
 
-
+*egen ODD_global = mean(score)
 
 *Moyenne par ODD
 collapse (mean) score, by(ODD)

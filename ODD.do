@@ -25,7 +25,6 @@ replace test=. if missing(score)
 drop if score == . | test == 1
 
 
-
 *Moyenne par ODD
 collapse (mean) score, by(ODD)
 

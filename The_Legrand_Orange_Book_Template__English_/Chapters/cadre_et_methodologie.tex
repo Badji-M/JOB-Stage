@@ -201,11 +201,7 @@ Lorsque les données nationales sont manquantes, des indicateurs alternatifs ou 
 
 
 
-
-
 %========================= METHODOLOGIE ====================================
-
-
 
 
 
@@ -240,5 +236,74 @@ x' = \frac{x - \text{min}}{\text{max} - \text{min}} \times 100
 
 où $x$ désigne la valeur brute observée, $\text{min}$ la borne inférieure, $\text{max}$ la borne supérieure, et $x'$ la valeur normalisée sur l’échelle 0--100.
 
+
+Pour un indicateur \textbf{croissant} (ex. taux de scolarisation) :
+\[
+x' = \frac{x - \text{min}}{T(x) - \text{min}} \times 100
+\]
+
+Pour un indicateur \textbf{décroissant} (ex. taux de pauvreté) :
+\[
+x' = \frac{T(x) - x}{T(x) - \text{min}} \times 100
+\]
+
+où $x$ est la valeur observée, $\text{min}$ la borne inférieure et $T(x)$ la cible 2030.\\
 Ainsi, un pays obtenant un score de 50 est situé à mi-chemin entre la performance minimale et l’optimum, tandis qu’un score de 75 traduit une couverture de trois quarts de la distance vers la cible.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+\subsection{Normalisation des indicateurs}
+
+Afin de rendre les indicateurs comparables, chaque valeur observée $x$ est transformée sur une échelle standard de 0 à 100. Dans cette échelle :
+
+\begin{itemize}
+	\item 0 correspond à la \textbf{pire performance} possible (borne inférieure),
+	\item 100 correspond à la \textbf{performance cible} pour 2030, notée $T(x)$.
+\end{itemize}
+
+La cible ($T(x)$) et la borne inférieure ($\text{lower bound}$) sont définies selon un arbre décisionnel inspiré des standards internationaux :
+
+\subsubsection*{Formules de normalisation}
+
+Pour un indicateur \textbf{croissant} (ex. taux de scolarisation) :
+\[
+x' = \frac{x - \text{min}}{T(x) - \text{min}} \times 100
+\]
+
+Pour un indicateur \textbf{décroissant} (ex. taux de pauvreté) :
+\[
+x' = \frac{T(x) - x}{T(x) - \text{min}} \times 100
+\]
+
+où $x$ est la valeur observée, $\text{min}$ la borne inférieure et $T(x)$ la cible 2030. Ainsi, un pays situé exactement à mi-chemin entre la valeur minimale et la cible obtient un score de 50.
+
+\subsection{Pondération des indicateurs}
+
+Tous les indicateurs sont pondérés de manière égale au sein de chaque ODD. Le poids relatif de chaque indicateur est donc inversement proportionnel au nombre d’indicateurs pour l’objectif considéré :
+\[
+w_{jk} = \frac{1}{N_j}
+\]
+avec $N_j$ le nombre d’indicateurs pour l’ODD $j$ et $w_{jk}$ le poids de l’indicateur $k$.
+
+Cette pondération égale assure neutralité et comparabilité des résultats tout en respectant les pratiques internationales.
+
+\subsection{Agrégation des indicateurs}
+
+Après pondération, les indicateurs sont combinés pour obtenir un score par ODD. Trois approches principales sont considérées dans la littérature :
+
+\paragraph{1. Moyenne arithmétique (durabilité faible)}  
+Suppose une forte substituabilité entre indicateurs. Une faiblesse sur un indicateur peut être compensée par une performance élevée sur un autre :
+\[
+I_j = \frac{1}{N_j} \sum_{k=1}^{N_j} I_{jk}
+\]

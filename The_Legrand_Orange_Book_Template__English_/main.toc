@@ -29,25 +29,29 @@
 \contentsline {subsection}{\numberline {4.1.3}Définitions des concepts clés}{25}{subsection.4.1.3}%
 \contentsline {subsection}{\numberline {4.1.4}Justification des indicateurs retenus}{25}{subsection.4.1.4}%
 \contentsline {section}{\numberline {4.2}Méthodologie de calcul de l'indicateur ODD}{26}{section.4.2}%
-\contentsline {chapter}{\numberline {5}In-text Elements}{27}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Theorems}{27}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Several equations}{27}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Single Line}{27}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Definitions}{27}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Notations}{28}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Remarks}{28}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Corollaries}{28}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Propositions}{28}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}Several equations}{28}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}Single Line}{28}{subsection.5.6.2}%
-\contentsline {section}{\numberline {5.7}Examples}{28}{section.5.7}%
-\contentsline {subsection}{\numberline {5.7.1}Equation and Text}{28}{subsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.7.2}Paragraph of Text}{29}{subsection.5.7.2}%
-\contentsline {section}{\numberline {5.8}Exercises}{29}{section.5.8}%
-\contentsline {section}{\numberline {5.9}Problems}{29}{section.5.9}%
-\contentsline {section}{\numberline {5.10}Vocabulary}{29}{section.5.10}%
-\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{31}{part.2}%
-\contentsline {chapter}{\numberline {6}Presenting Information}{33}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Table}{33}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Figure}{33}{section.6.2}%
+\contentsline {subsection}{\numberline {4.2.1}Normalisation des indicateurs}{27}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Pondération des indicateurs}{27}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Agrégation des indicateurs}{27}{subsection.4.2.3}%
+\contentsline {paragraph}{1. Moyenne arithmétique (durabilité faible)}{27}{section*.13}%
+\contentsline {chapter}{\numberline {5}In-text Elements}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Theorems}{29}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Several equations}{29}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Single Line}{29}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Definitions}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Notations}{30}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Remarks}{30}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Corollaries}{30}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Propositions}{30}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Several equations}{30}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Single Line}{30}{subsection.5.6.2}%
+\contentsline {section}{\numberline {5.7}Examples}{30}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Equation and Text}{30}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Paragraph of Text}{31}{subsection.5.7.2}%
+\contentsline {section}{\numberline {5.8}Exercises}{31}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Problems}{31}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Vocabulary}{31}{section.5.10}%
+\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{33}{part.2}%
+\contentsline {chapter}{\numberline {6}Presenting Information}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Table}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Figure}{35}{section.6.2}%
 \contentsfinish 
