@@ -5,7 +5,16 @@ cd "C:\Users\hp\OneDrive\Bureau\JOB"
 import excel "Data\Data.xlsx", sheet("NationalIndex") firstrow clear
 
 
-drop if _n >= 109
+drop if _n >= 104
+
+
+drop if extra == 0
+* Doublons 
+
+duplicates report ODD code_ODD1 code_ODD2
+duplicates list ODD code_ODD1 code_ODD2
+
+**
 
 drop if extra == 0
 
