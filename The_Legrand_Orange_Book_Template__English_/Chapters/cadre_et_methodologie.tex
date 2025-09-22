@@ -225,68 +225,31 @@ La détermination des bornes repose sur un arbre décisionnel inspiré des stand
 
 La \textbf{borne inférieure}, quant à elle, est définie par le \textbf{2,5\textsuperscript{e} percentile de la distribution internationale} de l’indicateur, conformément aux bonnes pratiques statistiques de mesure de la performance relative.
 
+\begin{remark}
 Le calcul de l’indice normalisé s’effectue selon la formule suivante :
+\end{remark}
 
 \begin{simplebox2}
-
+Pour un indicateur \textbf{croissant} (ex. taux de scolarisation) :
 \[
-x' = \frac{x - \text{min}}{\text{max} - \text{min}} \times 100
+x' = \frac{x - \text{min}}{T(x) - \text{min}} \times 100
 \]
+
+Pour un indicateur \textbf{décroissant} (ex. taux de pauvreté) :
+\[
+x' = \frac{\text{min} - x}{\text{min} - T(x)} \times 100
+\]
+
+où $x$ est la valeur observée, $\text{min}$ la borne inférieure, $T(x)$ la cible 2030, et $x'$ la valeur normalisée sur l’échelle 0--100.
+
+\begin{remark}
+Notons que ce qui est appelé minimum (min) correspond à la valeur la plus inadéquate pour un indicateur donné : Pour la pauvreté celle ci sera plus grande que la cible car la pauvreté est censée baisser.
+\end{remark}
+
 \end{simplebox2}
 
-où $x$ désigne la valeur brute observée, $\text{min}$ la borne inférieure, $\text{max}$ la borne supérieure, et $x'$ la valeur normalisée sur l’échelle 0--100.
-
-
-Pour un indicateur \textbf{croissant} (ex. taux de scolarisation) :
-\[
-x' = \frac{x - \text{min}}{T(x) - \text{min}} \times 100
-\]
-
-Pour un indicateur \textbf{décroissant} (ex. taux de pauvreté) :
-\[
-x' = \frac{T(x) - x}{T(x) - \text{min}} \times 100
-\]
-
-où $x$ est la valeur observée, $\text{min}$ la borne inférieure et $T(x)$ la cible 2030.\\
 Ainsi, un pays obtenant un score de 50 est situé à mi-chemin entre la performance minimale et l’optimum, tandis qu’un score de 75 traduit une couverture de trois quarts de la distance vers la cible.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-\subsection{Normalisation des indicateurs}
-
-Afin de rendre les indicateurs comparables, chaque valeur observée $x$ est transformée sur une échelle standard de 0 à 100. Dans cette échelle :
-
-\begin{itemize}
-	\item 0 correspond à la \textbf{pire performance} possible (borne inférieure),
-	\item 100 correspond à la \textbf{performance cible} pour 2030, notée $T(x)$.
-\end{itemize}
-
-La cible ($T(x)$) et la borne inférieure ($\text{lower bound}$) sont définies selon un arbre décisionnel inspiré des standards internationaux :
-
-\subsubsection*{Formules de normalisation}
-
-Pour un indicateur \textbf{croissant} (ex. taux de scolarisation) :
-\[
-x' = \frac{x - \text{min}}{T(x) - \text{min}} \times 100
-\]
-
-Pour un indicateur \textbf{décroissant} (ex. taux de pauvreté) :
-\[
-x' = \frac{T(x) - x}{T(x) - \text{min}} \times 100
-\]
-
-où $x$ est la valeur observée, $\text{min}$ la borne inférieure et $T(x)$ la cible 2030. Ainsi, un pays situé exactement à mi-chemin entre la valeur minimale et la cible obtient un score de 50.
 
 \subsection{Pondération des indicateurs}
 
@@ -300,10 +263,10 @@ Cette pondération égale assure neutralité et comparabilité des résultats to
 
 \subsection{Agrégation des indicateurs}
 
-Après pondération, les indicateurs sont combinés pour obtenir un score par ODD. Trois approches principales sont considérées dans la littérature :
+Après pondération, les indicateurs sont combinés en utilisant la moyenne arithmétique pour obtenir un score par ODD.
 
-\paragraph{1. Moyenne arithmétique (durabilité faible)}  
-Suppose une forte substituabilité entre indicateurs. Une faiblesse sur un indicateur peut être compensée par une performance élevée sur un autre :
 \[
 I_j = \frac{1}{N_j} \sum_{k=1}^{N_j} I_{jk}
 \]
+
+où $I_j$ est l’indice du SDG $j$, $N_j$ le nombre d’indicateurs pour cet objectif, et $I_{jk}$ le score de l’indicateur $k$.

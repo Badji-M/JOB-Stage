@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.16)  19 SEP 2025 13:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.16)  22 SEP 2025 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1298,7 +1298,8 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotereset=\count498
 (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
 (Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
-(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux))
+(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
+(Chapters/Stat_desc.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1618,22 +1619,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
 
 
- <./Pictures/chapter_head_1.pdf>]
-Overfull \hbox (7.9025pt too wide) in paragraph at lines 53--53
- []\T1/pag/db/n/14.4 (-20) II 
- []
-
-
-Overfull \hbox (7.9025pt too wide) in paragraph at lines 53--53
- []\T1/pag/db/n/14.4 (-20) II 
- []
-
-
-Overfull \hbox (3.99596pt too wide) in paragraph at lines 53--53
- [][][][][][][]| 
- []
-
-)
+ <./Pictures/chapter_head_1.pdf>])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1662,8 +1648,6 @@ File: Pictures/default.jpg Graphic file (type jpg)
 <use Pictures/default.jpg>
 Package pdftex.def Info: Pictures/default.jpg  used on input line 2.
 (pdftex.def)             Requested size: 597.50787pt x 337.72478pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 )
 
 [11
@@ -1783,22 +1767,22 @@ File: Pictures/default.jpg Graphic file (type jpg)
 <use Pictures/default.jpg>
 Package pdftex.def Info: Pictures/default.jpg  used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 337.72478pt.
-<Pictures/ODD/ODD01.jpg, id=387, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD01.jpg, id=265, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD01.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 22.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD02.jpg, id=388, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD02.jpg, id=266, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD02.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD02.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD02.jpg  used on input line 27.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD03.jpg, id=389, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD03.jpg, id=267, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD03.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD03.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD03.jpg  used on input line 37.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD04.jpg, id=390, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD04.jpg, id=268, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD04.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD04.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD04.jpg  used on input line 42.
@@ -1809,12 +1793,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [23 <./Pictures/ODD/ODD01.jpg> <./Pictures/ODD/ODD02.jpg>]
-<Pictures/ODD/ODD05.jpg, id=395, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD05.jpg, id=273, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD05.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD05.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD05.jpg  used on input line 52.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD06.jpg, id=396, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD06.jpg, id=274, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD06.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD06.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD06.jpg  used on input line 57.
@@ -1834,32 +1818,32 @@ Underfull \hbox (badness 1939) in paragraph at lines 59--59
 \T1/ptm/m/n/10.95 (+20) l'accès de tous à l'eau et à
  []
 
-<Pictures/ODD/ODD07.jpg, id=397, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD07.jpg, id=275, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD07.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD07.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD07.jpg  used on input line 67.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD08.jpg, id=398, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD08.jpg, id=276, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD08.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD08.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD08.jpg  used on input line 72.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD09.jpg, id=399, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD09.jpg, id=277, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD09.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD09.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD09.jpg  used on input line 82.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD10.jpg, id=400, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD10.jpg, id=278, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD10.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD10.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD10.jpg  used on input line 87.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD11.jpg, id=401, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD11.jpg, id=279, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD11.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD11.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD11.jpg  used on input line 97.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD12.jpg, id=402, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD12.jpg, id=280, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD12.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD12.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD12.jpg  used on input line 102.
@@ -1869,7 +1853,7 @@ Underfull \hbox (badness 3872) in paragraph at lines 104--104
 []\T1/ptm/b/n/10.95 (+20) ODD 12 : Con-som-ma-tion
  []
 
-<Pictures/ODD/ODD13.jpg, id=403, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD13.jpg, id=281, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD13.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 112.
@@ -1889,7 +1873,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \T1/ptm/m/n/10.95 (+20) ments cli-ma-tiques et leurs
  []
 
-<Pictures/ODD/ODD14.jpg, id=404, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD14.jpg, id=282, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD14.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 117.
@@ -1903,7 +1887,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 .jpg> <./Pictures/ODD/ODD06.jpg> <./Pictures/ODD/ODD07.jpg> <./Pictures/ODD/ODD
 08.jpg> <./Pictures/ODD/ODD09.jpg> <./Pictures/ODD/ODD10.jpg> <./Pictures/ODD/O
 DD11.jpg> <./Pictures/ODD/ODD12.jpg>]
-<Pictures/ODD/ODD15.jpg, id=409, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD15.jpg, id=287, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD15.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD15.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD15.jpg  used on input line 127.
@@ -1918,7 +1902,7 @@ Underfull \hbox (badness 1389) in paragraph at lines 129--129
 \T1/ptm/m/n/10.95 (+20) déser-ti-fi-ca-tion et met-tre fin à
  []
 
-<Pictures/ODD/ODD16.jpg, id=410, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD16.jpg, id=288, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD16.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD16.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD16.jpg  used on input line 132.
@@ -1928,7 +1912,7 @@ Underfull \hbox (badness 3954) in paragraph at lines 134--134
 \T1/ptm/m/n/10.95 (+20) voir l'avènement de so-ciétés
  []
 
-<Pictures/ODD/ODD17.jpg, id=411, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD17.jpg, id=289, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD17.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD17.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD17.jpg  used on input line 142.
@@ -1945,132 +1929,92 @@ Package mdframed Info: mdframed works in twoside mode on input line 216.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 216.
-Package mdframed Info: mdframed works in twoside mode on input line 230.
+Package mdframed Info: mdframed works in twoside mode on input line 232.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 230.
+(mdframed)              on input line 232.
 
 
 [26])
 
 [27]
+\openout2 = `Chapters/Stat_desc.aux'.
+
+ (Chapters/Stat_desc.tex
+Package mdframed Info: mdframed works in twoside mode on input line 31.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 31.
+File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD01.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 34.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 41.
+)
 
 [28
 
 
 
 ]
-Chapter 5.
 File: Pictures/default.jpg Graphic file (type jpg)
 <use Pictures/default.jpg>
-Package pdftex.def Info: Pictures/default.jpg  used on input line 129.
+Package pdftex.def Info: Pictures/default.jpg  used on input line 131.
 (pdftex.def)             Requested size: 597.50787pt x 337.72478pt.
-Package mdframed Info: mdframed works in twoside mode on input line 139.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 139.
-Package mdframed Info: mdframed works in twoside mode on input line 150.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 150.
-Package mdframed Info: mdframed works in twoside mode on input line 160.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 160.
 
 
-[29]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 189.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 189.
-Package mdframed Info: mdframed works in twoside mode on input line 198.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 198.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <6> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 233.
+[29
 
 
-[30]
-Package mdframed Info: mdframed works in twoside mode on input line 253.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 253.
+
+]
+
+[30
+
+]
+File: Pictures/default.jpg Graphic file (type jpg)
+<use Pictures/default.jpg>
+Package pdftex.def Info: Pictures/default.jpg  used on input line 138.
+(pdftex.def)             Requested size: 597.50787pt x 337.72478pt.
 
 
 [31]
 
-[32
-
-] (main.ptc)
-
-[33]
-
-[34]
-Chapter 6.
-File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
-<use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 287.
-(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
-<Pictures/placeholder.jpg, id=494, 351.3125pt x 193.72375pt>
-File: Pictures/placeholder.jpg Graphic file (type jpg)
-<use Pictures/placeholder.jpg>
-Package pdftex.def Info: Pictures/placeholder.jpg  used on input line 310.
-(pdftex.def)             Requested size: 175.6558pt x 96.86163pt.
-
-
-[35
-
- <./Pictures/placeholder.jpg>]
-
-[36
-
-]
-File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
-<use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 316.
-(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
-
-
-[37]
-
-[38
-
-]
-File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
-<use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 323.
-(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
-
-
-[39]
-
-[40]
+[32]
 \tf@ptc=\write6
 \openout6 = `main.ptc'.
 
  (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
 (Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
-(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux))
+(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
+(Chapters/Stat_desc.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39432 strings out of 468132
- 776595 string characters out of 5432143
- 1757005 words of memory out of 5000000
- 66713 multiletter control sequences out of 15000+600000
- 780811 words of font info for 517 fonts, out of 8000000 for 9000
+ 39162 strings out of 468132
+ 772603 string characters out of 5432143
+ 1757370 words of memory out of 5000000
+ 66563 multiletter control sequences out of 15000+600000
+ 760975 words of font info for 456 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,15n,94p,1199b,2877s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,13n,94p,1199b,2877s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.14} has been referenced but does not exist
 , replaced by a fixed one
 
  <C:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.
@@ -2079,19 +2023,16 @@ ex10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/symbols/msam10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/hp/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/rsfs/rsfs10.pfb><C:/Users/hp/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/times/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (40 pages, 21943029 bytes).
+1/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on main.pdf (32 pages, 21863157 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 165 named destinations out of 1000 (max. 500000)
- 168830 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 532 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 144617 words of extra memory for PDF output out of 154059 (max. 10000000)
 
