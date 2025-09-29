@@ -8,7 +8,7 @@ import excel "Data\Data.xlsx", sheet("NationalIndex") firstrow clear
 drop if _n >= 104
 
 
-drop if extra == 0
+*drop if extra == 0
 * Doublons 
 
 duplicates report ODD code_ODD1 code_ODD2
@@ -16,26 +16,25 @@ duplicates list ODD code_ODD1 code_ODD2
 
 **
 
-drop if extra == 0
-
 destring CibleInternational lower_raw, replace
 
 rename performancepositif1négatif2 performance
 
 gen score = cond(performance == 1, (valeur actuelle - lower_raw)/(CibleInternational-lower_raw) , (lower_raw - valeuractuelle)/(lower_raw - CibleInternational))
 
+
+gen test = 1 if score < 0
+
+*Corrigeons les depassements
 replace score = 0 if score < 0
 replace score = 1 if score > 1
 
 
-gen test = score<0
+/* gen test = score<0
 replace test=. if missing(score)
-
 drop if score == . | test == 1
-
-
 *Moyenne par ODD
-collapse (mean) score, by(ODD)
+collapse (mean) score, by(ODD) */
 
 
 /* Moyenne par ODD sans supprimer les lignes originales
