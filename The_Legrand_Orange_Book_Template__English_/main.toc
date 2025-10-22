@@ -1,7 +1,7 @@
 \babel@toc {english}{}\relax 
-\contentsline {part}{\@mypartnumtocformat {I}{Premiere partie}}{9}{part.1}%
+\contentsline {part}{I\hspace {1em}Premiere partie}{9}{part.1}%
 \contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Présentation de la structure d'accueil dfhfffgjgyuguhihjkkhjhvgygh}{13}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Présentation de la structure d'accueil}{13}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Historique, rôle et mission de l'ANSD}{13}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Structure organisationnelle}{14}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Présentation de la DMCI}{14}{section.2.3}%
@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {3.1}Revue théorique}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Revue empirique}{18}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Revue méthodologique}{19}{section.3.3}%
-\contentsline {paragraph}{1. Moyenne arithmétique (durabilité faible)}{20}{section*.7}%
-\contentsline {paragraph}{2. Minimum de Leontief (durabilité forte)}{20}{section*.8}%
-\contentsline {paragraph}{3. Moyenne géométrique (substituabilité intermédiaire)}{21}{section*.9}%
-\contentsline {paragraph}{Choix pour le présent rapport}{21}{section*.10}%
+\contentsline {paragraph}{1. Moyenne arithmétique (durabilité faible)}{20}{Item.3}%
+\contentsline {paragraph}{2. Minimum de Leontief (durabilité forte)}{21}{equation.3.1}%
+\contentsline {paragraph}{3. Moyenne géométrique (substituabilité intermédiaire)}{21}{equation.3.2}%
+\contentsline {paragraph}{Choix pour le présent rapport}{21}{equation.3.3}%
 \contentsline {chapter}{\numberline {4}Cadre conceptuel et Méthodologie}{23}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Cadre conceptuel}{23}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Introduction générale aux ODD}{23}{subsection.4.1.1}%
