@@ -394,38 +394,24 @@ innerbottommargin=5pt]{cBox}
 %	SECTION NUMBERING IN THE MARGIN
 %----------------------------------------------------------------------------------------
 
-%-------------------------------------------
-% SECTION HEADINGS: numéro dans carré bleu + trait dessous
-%-------------------------------------------
-
-\usepackage{titlesec}
-\usepackage{tikz}
-
-% Commande pour le trait sous le titre de section
-\newcommand{\SectionTrait}{%
-	\vspace{-0.5em} % rapproche le trait du titre
-	\noindent
-	\color{myblue!60}\rule{\linewidth}{0.8pt}\par
-	\vspace{0.3em} % petit espace avant le texte
-}
-
-% Style des sections : carré bleu pour le numéro
-\titleformat{\section}
-[block] % forme
-{\normalfont\large\sffamily\bfseries\color{myblue}} % style du texte du titre
-{%
-	\tikz[baseline=(char.base)]{
-		\node[draw=myblue,fill=myblue,rounded corners=3pt,
-		minimum width=1.5em,minimum height=1.5em,align=center,
-		text=white, font=\sffamily\bfseries] (char){\thesection};
-	}%
-}%
-{1em} % espace entre le numéro et le titre
-{} % rien avant le titre
-
-% Espacement autour de la section
-\titlespacing*{\section}{0pt}{2em}{0.5em}
-
+\makeatletter
+\renewcommand{\@seccntformat}[1]{\llap{\textcolor{myblue}{\csname the#1\endcsname}\hspace{1em}}}                    
+\renewcommand{\section}{\@startsection{section}{1}{\z@}
+{-4ex \@plus -1ex \@minus -.4ex}
+{1ex \@plus.2ex }
+{\normalfont\large\sffamily\bfseries}}
+\renewcommand{\subsection}{\@startsection {subsection}{2}{\z@}
+{-3ex \@plus -0.1ex \@minus -.4ex}
+{0.5ex \@plus.2ex }
+{\normalfont\sffamily\bfseries}}
+\renewcommand{\subsubsection}{\@startsection {subsubsection}{3}{\z@}
+{-2ex \@plus -0.1ex \@minus -.2ex}
+{.2ex \@plus.2ex }
+{\normalfont\small\sffamily\bfseries}}                        
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}
+{-2ex \@plus-.2ex \@minus .2ex}
+{.1ex}
+{\normalfont\small\sffamily\bfseries}}
 
 %----------------------------------------------------------------------------------------
 %	PART HEADINGS
@@ -439,7 +425,7 @@ innerbottommargin=5pt]{cBox}
 % unnumbered part in the table of contents
 \newcommand{\@myparttocformat}[1]{%
 \setlength\fboxsep{0pt}%
-%\noindent\colorbox{myblue!40}{\strut\parbox[c][.7cm]{\linewidth}{\Large\sffamily\centering#1}}}%
+\noindent\colorbox{myblue!40}{\strut\parbox[c][.7cm]{\linewidth}{\Large\sffamily\centering#1}}}%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newlength\esp
 \setlength\esp{4pt}
@@ -495,75 +481,119 @@ innerbottommargin=5pt]{cBox}
 \fi}
 
 %----------------------------------------------------------------------------------------
-%	CHAPTER HEADINGS
+%	MEEEEEEEEEEE  POUR LES SECTIONS .
 %----------------------------------------------------------------------------------------
-%-------------------------------------------
-% CHAPTER HEADINGS: numéro dans carré bleu + titre à droite
-%-------------------------------------------
+\usepackage{titlesec}
+\newcommand{\SectionTrait}{%
+	\vspace{-0.5em}
+	\noindent\color{myblue!60}\rule{\linewidth}{0.8pt}\par
+	\vspace{0.3em}
+}
 
+\titleformat{\section}
+[block]
+{\normalfont\large\sffamily\bfseries\color{myblue}}
+{%
+	\tikz[baseline=(char.base)]{
+		\node[draw=myblue,fill=myblue,rounded corners=3pt,
+		minimum width=1.5em,minimum height=1.5em,align=center,
+		text=white, font=\sffamily\bfseries] (char){\thesection};
+	}%
+}
+{1em}
+{}
+
+\titlespacing*{\section}{0pt}{2em}{0.5em}
+%----------------------------------------------------------------------------------------
+%	CHAPTER HEADINGS (Numéro dans carré bleu, titre à droite)
+%----------------------------------------------------------------------------------------
+\makeatletter
+% Chapitres numérotés
 \def\@makechapterhead#1{%
 	\begin{tikzpicture}[remember picture,overlay]
-	\node at (current page.north west){
+	\node at (current page.north west) {
 		\begin{tikzpicture}[remember picture,overlay]
 		
-		%-------------------------------
-		% Carré du numéro du chapitre
-		%-------------------------------
+		% Carré contenant "Chapitre" + numéro
 		\node[
-		draw=myblue,                % contour
-		fill=myblue,                % fond
-		rounded corners=6pt,        % coins arrondis
+		draw=myblue,
+		fill=myblue,
+		rounded corners=6pt,
 		minimum width=3cm,
 		minimum height=3cm,
 		align=center,
 		anchor=north west,
-		font=\sffamily\bfseries,    % police
 		text=white
-		] (chapnum) at (2cm,-3cm) {%
-			\small Chapitre \\[10pt]      % "Chapitre" en petit
-			\fontsize{60}{70}\selectfont % <-- ici tu règles la taille du numéro
-			\thechapter
+		] (chapnum) at (2cm,-3cm) {
+			\small\sffamily Chapitre \\[5pt]
+			\fontsize{60}{70}\selectfont\bfseries \thechapter
 		};
 		
-		
-		
-		%-------------------------------
-		% Titre du chapitre
-		%-------------------------------
+		% Titre à droite du carré (avec retour à la ligne automatique)
 		\node[
-		anchor=west,                % l'ancre du titre à gauche
-		align=left,                 % texte aligné à gauche
-		color=myblue                % couleur du titre (bleu principal)
-		] at ([yshift=0pt]chapnum.east) {%
-			\huge\sffamily\bfseries #1   % titre du chapitre
+		anchor=west,
+		align=left,
+		color=myblue,
+		text width=0.7\textwidth % Limite la largeur du texte
+		] at ([xshift=1cm]chapnum.east) {
+			\huge\sffamily\bfseries #1
 		};
 		
-		\end{tikzpicture}};
+		\end{tikzpicture}
+	};
 \end{tikzpicture}
-\vspace*{4cm} % espace vertical après le titre
+\vspace*{4cm}
 }
 
-%-------------------------------------------
-% CHAPTER HEADINGS SANS NUMERO
-%-------------------------------------------
+% Chapitres non numérotés
 \def\@makeschapterhead#1{%
 \begin{tikzpicture}[remember picture,overlay]
-\node at (current page.north west){
+\node at (current page.north west) {
 	\begin{tikzpicture}[remember picture,overlay]
 	
-	% Titre du chapitre non numéroté
+	% Carré vide pour alignement
+	\node[
+	draw=myblue,
+	fill=myblue,
+	rounded corners=6pt,
+	minimum width=3cm,
+	minimum height=3cm,
+	align=center,
+	anchor=north west,
+	text=white
+	] (chapnum) at (2cm,-3cm) {};
+	
+	% Titre à droite (même logique)
 	\node[
 	anchor=west,
 	align=left,
-	color=myblue
-	] at (1.5cm,-3cm) {%
+	color=myblue,
+	text width=0.7\textwidth % Limite la largeur aussi
+	] at ([xshift=1cm]chapnum.east) {
 		\huge\sffamily\bfseries #1
 	};
 	
-	\end{tikzpicture}};
+	\end{tikzpicture}
+};
 \end{tikzpicture}
-\vspace*{4cm} % espace vertical après le titre
+\vspace*{4cm}
 }
+\makeatother
+
+
+%-------------------------------------------
+
+\def\@makeschapterhead#1{%
+\begin{tikzpicture}[remember picture,overlay]
+\node at (current page.north west)
+{\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=north west,inner sep=0pt] at (0,0) {\ifusechapterimage\includegraphics[width=\paperwidth]{\thechapterimage}\fi};
+\draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt,rounded corners=15pt,draw=myblue,fill=white,fill opacity=0.5,inner sep=15pt]{\strut\makebox[22cm]{}};
+\draw[anchor=west] (\Gm@lmargin+.3cm,-9cm) node {\huge\sffamily\bfseries\color{black}#1\strut};
+\end{tikzpicture}};
+\end{tikzpicture}
+\par\vspace*{270\p@}}
+\makeatother
 
 %----------------------------------------------------------------------------------------
 %	HYPERLINKS IN THE DOCUMENTS

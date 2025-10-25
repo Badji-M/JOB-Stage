@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.13)  20 OCT 2025 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.13)  25 OCT 2025 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1284,36 +1284,39 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totalupperbox=\box93
 \tcb@totallowerbox=\box94
 )
+\esp=\skip171
+\ecart=\skip172
+
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box95
-\beforetitleunit=\skip171
-\aftertitleunit=\skip172
+\beforetitleunit=\skip173
+\aftertitleunit=\skip174
 \ttl@plus=\dimen304
 \ttl@minus=\dimen305
 \ttl@toksa=\toks56
 \titlewidth=\dimen306
 \titlewidthlast=\dimen307
 \titlewidthfirst=\dimen308
-))
-Runaway argument?
-{\setlength \fboxsep {0pt}\newcommand {\@myparttocformat}[1]{\setlength \ETC.
-! File ended while scanning use of \@argdef.
-<inserted text> 
-                \par 
-l.49 \input{structure}
-                       % Insert the commands.tex file which contains the maj...
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 603.
+Package hyperref Info: Option `breaklinks' set `true' on input line 603.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 603.
 
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count497
+)))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count497
-\@quotereset=\count498
+\@quotelevel=\count498
+\@quotereset=\count499
 (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
 (Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
 (Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
@@ -1375,16 +1378,16 @@ LaTeX Font Info:    ... okay on input line 51.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count499
+\scratchcounter=\count500
 \scratchdimen=\dimen309
 \scratchbox=\box96
-\nofMPsegments=\count500
-\nofMParguments=\count501
+\nofMPsegments=\count501
+\nofMParguments=\count502
 \everyMPshowfont=\toks57
-\MPscratchCnt=\count502
+\MPscratchCnt=\count503
 \MPscratchDim=\dimen310
-\MPnumerator=\count503
-\makeMPintoPDFobject=\count504
+\MPnumerator=\count504
+\makeMPintoPDFobject=\count505
 \everyMPtoPDFconversion=\toks58
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
@@ -1434,19 +1437,14 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
 Package hyperref Info: Link coloring OFF on input line 51.
- (main.out) (main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
-
-<Pictures/background.pdf, id=62, 584.1825pt x 835.12pt>
+<Pictures/background.pdf, id=6, 584.1825pt x 835.12pt>
 File: Pictures/background.pdf Graphic file (type pdf)
 <use Pictures/background.pdf>
 Package pdftex.def Info: Pictures/background.pdf  used on input line 63.
 (pdftex.def)             Requested size: 597.50787pt x 854.24503pt.
 LaTeX Font Info:    Trying to load font information for T1+pag on input line 64
 .
-
-(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
+ (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
@@ -1459,8 +1457,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 66.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
  66.
-
-(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+ (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1549,17 +1546,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 [2]
 \openout2 = `Chapters/00-Decharge.aux'.
 
- (Chapters/00-Decharge.tex)
+ (Chapters/00-Decharge.tex
+! Undefined control sequence.
+l.1 \chapterimage
+                 {default.jpg} % Chapter heading image
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 
 [3
 
-
 ]
+
+[4
+
+])
+
+[5]
 \openout2 = `Chapters/00-Remerciements.aux'.
 
  (Chapters/00-Remerciements.tex
 
-[4
+[6
 
 
 
@@ -1591,41 +1603,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 )
 
-[5]
+[7]
 
-[6
+[8
 
 
 
 ] (main.toc
+Overfull \hbox (4.7415pt too wide) in paragraph at lines 2--2
+ []\T1/pag/db/n/17.28 (-20) I 
+ []
+
+
+Overfull \hbox (4.7415pt too wide) in paragraph at lines 2--2
+ []\T1/pag/db/n/17.28 (-20) I 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+
+Overfull \hbox (4.79514pt too wide) in paragraph at lines 2--2
+ [][][][][][][]| 
+ []
+
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
 )
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
 
 
-[7]
+[9]
 
-[8
+[10
+
+]
+\c@ttl@toc@default=\count506
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 113.
+ (main.ptc
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|[]| [][][]\T1/pag/db/n/14.4 (+20) Présentation de la struc-ture
+ []
+
+)
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 113.
+
+
+[11
 
 ]
 
-[9
-
-]
-
-[10]
+[12]
 \openout2 = `Chapters/01-Introduction.aux'.
 
  (Chapters/01-Introduction.tex
 Chapter 1.
 )
 
-[11
+[13
 
 
 ]
@@ -1633,7 +1675,7 @@ Chapter 1.
 
  (Chapters/02-Presentation_structure.tex
 
-[12
+[14
 
 
 
@@ -1656,7 +1698,7 @@ tis-tiques pro-duites par l'ensemble
 
 
 
-[13]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
@@ -1674,7 +1716,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[14]
+[16]
 Package mdframed Info: mdframed works in twoside mode on input line 90.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1689,7 +1731,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 124.
 
 
-[15])
+[17])
 
 
 Package fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -1698,178 +1740,280 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[16]
+[18]
 \openout2 = `Chapters/revue.aux'.
 
  (Chapters/revue.tex
 Chapter 3.
+Package mdframed Info: mdframed works in twoside mode on input line 3.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 3.
+
+LaTeX Warning: Citation 'un2000' on page 19 undefined on input line 12.
 
 
-[17
+LaTeX Warning: Citation 'who2015' on page 19 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'fao2015' on page 19 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'bm2015' on page 19 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'lo2015' on page 19 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'ipar2015' on page 19 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'eca2015' on page 19 undefined on input line 16.
+
+
+
+[19
 
 
 
 
 ]
 
-[18]
-Package mdframed Info: mdframed works in twoside mode on input line 51.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 51.
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 25.
 
 
-[19]
-Package mdframed Info: mdframed works in twoside mode on input line 100.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 100.
+
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 25.
+
+
+
+LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 27.
+
+
+
+LaTeX Warning: Citation 'ANSD_ENRVFFS_2023' on page 20 undefined on input line 
+29.
+
+
+LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'BanqueMondiale2022' on page 20 undefined on input line
+ 31.
+
+
+LaTeX Warning: Citation 'ANSD_EHCVM_2018_2019' on page 20 undefined on input li
+ne 31.
+
+
+LaTeX Warning: Citation 'BM_KNOMAD_2022' on page 20 undefined on input line 31.
+
+
+
+LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'Transparency2024' on page 20 undefined on input line 3
+5.
+
+
+Overfull \hbox (14.06715pt too wide) in paragraph at lines 35--36
+\T1/ptm/m/n/12 (-20) pour la lutte con-tre la cor-rup-tion (in-dice de per-cep-
+tion à 43/100 en 2024) ([]). 
+ []
+
+
+LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 37.
+
 
 
 [20]
-Package mdframed Info: mdframed works in twoside mode on input line 109.
+Package mdframed Info: mdframed works in twoside mode on input line 58.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 109.
-Package mdframed Info: mdframed works in twoside mode on input line 118.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 118.
-)
+(mdframed)              on input line 58.
+
 
 [21]
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 105.
+Package mdframed Info: mdframed works in twoside mode on input line 107.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 107.
+
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+
+
+[22]
+Package mdframed Info: mdframed works in twoside mode on input line 116.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 116.
+Package mdframed Info: mdframed works in twoside mode on input line 125.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 125.
+)
+
+[23]
 \openout2 = `Chapters/cadre_et_methodologie.aux'.
 
  (Chapters/cadre_et_methodologie.tex
 
-[22
+[24
 
 
 
 
 ]
 Chapter 4.
-<Pictures/ODD/ODD01.jpg, id=266, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD01.jpg, id=226, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD01.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 22.
+Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 21.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD02.jpg, id=267, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD02.jpg, id=227, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD02.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD02.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD02.jpg  used on input line 27.
+Package pdftex.def Info: Pictures/ODD/ODD02.jpg  used on input line 26.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 1184) in paragraph at lines 29--29
+Underfull \hbox (badness 1184) in paragraph at lines 28--28
 []\T1/ptm/b/n/12 (+20) ODD 2 : Faim ``zéro'' \T1/ptm/m/n/12 (+20) --
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 29--29
+Underfull \hbox (badness 3229) in paragraph at lines 28--28
 \T1/ptm/m/n/12 (+20) la nu-tri-tion et pro-mou-voir
  []
 
-<Pictures/ODD/ODD03.jpg, id=268, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD03.jpg, id=228, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD03.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD03.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD03.jpg  used on input line 37.
+Package pdftex.def Info: Pictures/ODD/ODD03.jpg  used on input line 36.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD04.jpg, id=269, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD04.jpg, id=229, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD04.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD04.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD04.jpg  used on input line 42.
+Package pdftex.def Info: Pictures/ODD/ODD04.jpg  used on input line 41.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 2790) in paragraph at lines 44--44
+Underfull \hbox (badness 2790) in paragraph at lines 43--43
 []\T1/ptm/b/n/12 (+20) ODD 4 : Éd-u-ca-tion de
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 44--44
+Underfull \hbox (badness 4242) in paragraph at lines 43--43
 \T1/ptm/m/n/12 (+20) in-clu-sive et de qual-ité et
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 44--44
+Underfull \hbox (badness 1281) in paragraph at lines 43--43
 \T1/ptm/m/n/12 (+20) pro-mou-voir des pos-si-bil-ités
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[23 <./Pictures/ODD/ODD01.jpg> <./Pictures/ODD/ODD02.jpg>]
-<Pictures/ODD/ODD05.jpg, id=274, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD05.jpg, id=230, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD05.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD05.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD05.jpg  used on input line 52.
+Package pdftex.def Info: Pictures/ODD/ODD05.jpg  used on input line 51.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD06.jpg, id=275, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD06.jpg, id=231, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD06.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD06.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD06.jpg  used on input line 57.
+Package pdftex.def Info: Pictures/ODD/ODD06.jpg  used on input line 56.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 1107) in paragraph at lines 59--59
+Underfull \hbox (badness 1107) in paragraph at lines 58--58
 []\T1/ptm/b/n/12 (+20) ODD 6 : Eau pro-pre et
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 59--59
+Underfull \hbox (badness 5696) in paragraph at lines 58--58
 \T1/ptm/b/n/12 (+20) as-sainisse-ment \T1/ptm/m/n/12 (+20) -- Garan-tir
  []
 
-<Pictures/ODD/ODD07.jpg, id=276, 3011.25pt x 3011.25pt>
+
+
+[25 <./Pictures/ODD/ODD01.jpg> <./Pictures/ODD/ODD02.jpg> <./Pictures/ODD/ODD03
+.jpg> <./Pictures/ODD/ODD04.jpg>]
+<Pictures/ODD/ODD07.jpg, id=237, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD07.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD07.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD07.jpg  used on input line 67.
+Package pdftex.def Info: Pictures/ODD/ODD07.jpg  used on input line 66.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 1454) in paragraph at lines 69--69
+Underfull \hbox (badness 1454) in paragraph at lines 68--68
 \T1/ptm/b/n/12 (+20) et d'un coût abor-d-able \T1/ptm/m/n/12 (+20) --
  []
 
-<Pictures/ODD/ODD08.jpg, id=277, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD08.jpg, id=238, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD08.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD08.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD08.jpg  used on input line 72.
+Package pdftex.def Info: Pictures/ODD/ODD08.jpg  used on input line 71.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 1424) in paragraph at lines 74--74
+Underfull \hbox (badness 1424) in paragraph at lines 73--73
 []\T1/ptm/b/n/12 (+20) ODD 8 : Tra-vail dé-cent
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 74--74
+Underfull \hbox (badness 2478) in paragraph at lines 73--73
 \T1/ptm/m/n/12 (+20) Pro-mou-voir une crois-sance
  []
 
-<Pictures/ODD/ODD09.jpg, id=278, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD09.jpg, id=239, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD09.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD09.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD09.jpg  used on input line 82.
+Package pdftex.def Info: Pictures/ODD/ODD09.jpg  used on input line 81.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 2426) in paragraph at lines 84--84
+Underfull \hbox (badness 2426) in paragraph at lines 83--83
 \T1/ptm/m/n/12 (+20) tion durable et en-cour-ager
  []
 
-<Pictures/ODD/ODD10.jpg, id=279, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD10.jpg, id=240, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD10.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD10.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD10.jpg  used on input line 87.
+Package pdftex.def Info: Pictures/ODD/ODD10.jpg  used on input line 86.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD11.jpg, id=280, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD11.jpg, id=241, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD11.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD11.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD11.jpg  used on input line 97.
+Package pdftex.def Info: Pictures/ODD/ODD11.jpg  used on input line 96.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD12.jpg, id=281, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD12.jpg, id=242, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD12.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD12.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD12.jpg  used on input line 102.
+Package pdftex.def Info: Pictures/ODD/ODD12.jpg  used on input line 101.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
+<Pictures/ODD/ODD13.jpg, id=243, 3011.25pt x 3011.25pt>
+File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD13.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 111.
+(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
+
+Underfull \hbox (badness 7613) in paragraph at lines 113--113
+[]\T1/ptm/b/n/12 (+20) ODD 13 : Lutte con-
+ []
+
+<Pictures/ODD/ODD14.jpg, id=244, 3011.25pt x 3011.25pt>
+File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD14.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 116.
+(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
+
+Underfull \hbox (badness 2334) in paragraph at lines 118--118
+\T1/ptm/m/n/12 (+20) les mers et les ressources
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1882,69 +2026,56 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[24 <./Pictures/ODD/ODD03.jpg> <./Pictures/ODD/ODD04.jpg> <./Pictures/ODD/ODD05
-.jpg> <./Pictures/ODD/ODD06.jpg> <./Pictures/ODD/ODD07.jpg> <./Pictures/ODD/ODD
-08.jpg> <./Pictures/ODD/ODD09.jpg> <./Pictures/ODD/ODD10.jpg>]
-<Pictures/ODD/ODD13.jpg, id=286, 3011.25pt x 3011.25pt>
-File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
-<use Pictures/ODD/ODD13.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 112.
-(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-
-Underfull \hbox (badness 7613) in paragraph at lines 114--114
-[]\T1/ptm/b/n/12 (+20) ODD 13 : Lutte con-
- []
-
-<Pictures/ODD/ODD14.jpg, id=287, 3011.25pt x 3011.25pt>
-File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
-<use Pictures/ODD/ODD14.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 117.
-(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-
-Underfull \hbox (badness 2334) in paragraph at lines 119--119
-\T1/ptm/m/n/12 (+20) les mers et les ressources
- []
-
-<Pictures/ODD/ODD15.jpg, id=288, 3011.25pt x 3011.25pt>
+[26 <./Pictures/ODD/ODD05.jpg> <./Pictures/ODD/ODD06.jpg> <./Pictures/ODD/ODD07
+.jpg> <./Pictures/ODD/ODD08.jpg> <./Pictures/ODD/ODD09.jpg> <./Pictures/ODD/ODD
+10.jpg> <./Pictures/ODD/ODD11.jpg> <./Pictures/ODD/ODD12.jpg>]
+<Pictures/ODD/ODD15.jpg, id=249, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD15.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD15.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD15.jpg  used on input line 127.
+Package pdftex.def Info: Pictures/ODD/ODD15.jpg  used on input line 126.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
 
-Underfull \hbox (badness 2103) in paragraph at lines 129--129
+Underfull \hbox (badness 2103) in paragraph at lines 128--128
 []\T1/ptm/b/n/12 (+20) ODD 15 : Vie ter-restre
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 129--129
+Underfull \hbox (badness 1052) in paragraph at lines 128--128
 \T1/ptm/m/n/12 (+20) -- Préserver et restau-rer les
  []
 
-<Pictures/ODD/ODD16.jpg, id=289, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD16.jpg, id=250, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD16.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD16.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD16.jpg  used on input line 132.
+Package pdftex.def Info: Pictures/ODD/ODD16.jpg  used on input line 131.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD17.jpg, id=290, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD17.jpg, id=251, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD17.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD17.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD17.jpg  used on input line 142.
+Package pdftex.def Info: Pictures/ODD/ODD17.jpg  used on input line 141.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-Package mdframed Info: mdframed works in twoside mode on input line 173.
+Package mdframed Info: mdframed works in twoside mode on input line 172.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 173.
+(mdframed)              on input line 172.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-[25 <./Pictures/ODD/ODD11.jpg> <./Pictures/ODD/ODD12.jpg> <./Pictures/ODD/ODD13
-.jpg> <./Pictures/ODD/ODD14.jpg> <./Pictures/ODD/ODD15.jpg> <./Pictures/ODD/ODD
-16.jpg> <./Pictures/ODD/ODD17.jpg>]
-Package mdframed Info: mdframed works in twoside mode on input line 216.
+
+[27 <./Pictures/ODD/ODD13.jpg> <./Pictures/ODD/ODD14.jpg> <./Pictures/ODD/ODD15
+.jpg> <./Pictures/ODD/ODD16.jpg> <./Pictures/ODD/ODD17.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 215.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 216.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 228.
+(mdframed)              on input line 215.
+Package mdframed Info: mdframed works in twoside mode on input line 231.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 231.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 248.
 
 
 
@@ -1954,15 +2085,9 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[26]
-Package mdframed Info: mdframed works in twoside mode on input line 232.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 232.
-Package mdframed Info: Not enough space on this page on input line 249.
-)
+[28])
 
-[27]
+[29]
 \openout2 = `Chapters/Stat_desc.aux'.
 
  (Chapters/Stat_desc.tex
@@ -1995,14 +2120,6 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[28
-
-
-
-]
-
-[29]
-
 [30
 
 
@@ -2013,11 +2130,23 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 
 [32
 
+
+
 ]
+
+LaTeX Warning: Empty bibliography on input line 137.
+
+
 
 [33]
 
-[34] (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
+[34
+
+]
+\tf@ptc=\write6
+\openout6 = `main.ptc'.
+
+ (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
 (Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
 (Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
 (Chapters/Stat_desc.aux))
@@ -2027,44 +2156,45 @@ L3 programming layer <2025-08-13>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 74DF686D374B67B4CD1C3E9ED12A4D74;2526
-(rerunfilecheck)             After:  BBEF0CAE3719A0667AAA0A32D3A7E94E;4561.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39040 strings out of 468132
- 769552 string characters out of 5432142
- 1759205 words of memory out of 5000000
- 66482 multiletter control sequences out of 15000+600000
- 731860 words of font info for 410 fonts, out of 8000000 for 9000
+ 39325 strings out of 468132
+ 772980 string characters out of 5432142
+ 1766362 words of memory out of 5000000
+ 66751 multiletter control sequences out of 15000+600000
+ 757219 words of font info for 444 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,12n,94p,1199b,1949s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt120
-0.pk><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmex10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/
-urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-times/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
-es/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on main.pdf (34 pages, 21660413 bytes).
+ 89i,13n,94p,1199b,2878s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.
+pk><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on main.pdf (34 pages, 21641291 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 108247 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 139999 words of extra memory for PDF output out of 154059 (max. 10000000)
 

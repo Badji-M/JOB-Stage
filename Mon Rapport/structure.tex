@@ -1,0 +1,201 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Legrand Orange Book
+% Structural Definitions File
+% Version 2.0 (9/2/15)
+%
+% Modified by Pape Mamadou BADJI
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES & CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\usepackage[top=3cm,bottom=3cm,left=3cm,right=3cm,headsep=10pt,a4paper]{geometry}
+\usepackage{graphicx}
+\graphicspath{{Pictures/}}
+\usepackage{tikz}
+\usepackage[english]{babel}
+\usepackage{enumitem}
+\setlist{nolistsep}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\definecolor{myblue}{RGB}{0,102,204}
+\definecolor{ocre}{RGB}{243,102,25}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[table]{xcolor}
+\usepackage{longtable}
+\usepackage{avant}
+\usepackage{mathptmx}
+\usepackage{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY & HYPERLINKS
+%----------------------------------------------------------------------------------------
+
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{bibliography.bib}
+\usepackage{hyperref}
+\hypersetup{
+	hidelinks,
+	colorlinks=false,
+	breaklinks=true,
+	urlcolor=myblue,
+	bookmarksopen=false,
+	pdftitle={Title},
+	pdfauthor={Author}
+}
+\usepackage{bookmark}
+\bookmarksetup{
+	open,
+	numbered,
+	addtohook={
+		\ifnum\bookmarkget{level}=0 \bookmarksetup{bold}\fi
+		\ifnum\bookmarkget{level}=-1 \bookmarksetup{color=myblue,bold}\fi
+	}
+}
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS STYLES
+%----------------------------------------------------------------------------------------
+
+\usepackage{titletoc}
+\contentsmargin{0cm}
+
+\titlecontents{chapter}[1.25cm]
+{\addvspace{12pt}\large\sffamily\bfseries}
+{\color{myblue!60}\contentslabel[\Large\thecontentslabel]{1.25cm}\color{myblue}}
+{\color{myblue}}
+{\color{myblue!60}\normalsize\;\titlerule*[.5pc]{.}\;\thecontentspage}
+
+\titlecontents{section}[1.25cm]
+{\addvspace{3pt}\sffamily\bfseries}
+{\contentslabel[\thecontentslabel]{1.25cm}}
+{}
+{\hfill\color{black}\thecontentspage}
+
+\titlecontents{subsection}[1.25cm]
+{\addvspace{1pt}\sffamily\small}
+{\contentslabel[\thecontentslabel]{1.25cm}}
+{}
+{\ \titlerule*[.5pc]{.}\;\thecontentspage}
+
+%----------------------------------------------------------------------------------------
+%	PAGE HEADERS
+%----------------------------------------------------------------------------------------
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\sffamily\normalsize\bfseries\chaptername\ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\sffamily\normalsize\thesection\hspace{5pt}#1}{}}
+\fancyhf{}
+\fancyhead[LE,RO]{\sffamily\normalsize\thepage}
+\fancyhead[LO]{\rightmark}
+\fancyhead[RE]{\leftmark}
+\renewcommand{\headrulewidth}{0.5pt}
+\addtolength{\headheight}{2.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
+
+%----------------------------------------------------------------------------------------
+%	CHAPTER HEADINGS (Numéro dans carré bleu)
+%----------------------------------------------------------------------------------------
+
+\makeatletter
+\def\@makechapterhead#1{%
+	\begin{tikzpicture}[remember picture,overlay]
+	\node at (current page.north west){
+		\begin{tikzpicture}[remember picture,overlay]
+
+		% Carré contenant "Chapitre" + numéro
+		\node[
+		draw=myblue,
+		fill=myblue,
+		rounded corners=6pt,
+		minimum width=3cm,
+		minimum height=3cm,
+		align=center,
+		anchor=north west,
+		text=white
+		] (chapnum) at (2cm,-3cm) {
+			\small\sffamily Chapitre \\[5pt]
+			\fontsize{60}{70}\selectfont\bfseries \thechapter
+		};
+
+		% Titre à droite du carré
+		\node[
+		anchor=west,
+		align=left,
+		color=myblue
+		] at ([xshift=1cm]chapnum.east) {
+			\huge\sffamily\bfseries #1
+		};
+
+		\end{tikzpicture}};
+	\end{tikzpicture}
+	\vspace*{4cm}
+}
+\makeatother
+
+%----------------------------------------------------------------------------------------
+%	SECTION HEADINGS (Carré bleu + trait)
+%----------------------------------------------------------------------------------------
+
+\usepackage{titlesec}
+\newcommand{\SectionTrait}{%
+	\vspace{-0.5em}
+	\noindent\color{myblue!60}\rule{\linewidth}{0.8pt}\par
+	\vspace{0.3em}
+}
+
+\titleformat{\section}
+[block]
+{\normalfont\large\sffamily\bfseries\color{myblue}}
+{%
+	\tikz[baseline=(char.base)]{
+		\node[draw=myblue,fill=myblue,rounded corners=3pt,
+		minimum width=1.5em,minimum height=1.5em,align=center,
+		text=white, font=\sffamily\bfseries] (char){\thesection};
+	}%
+}
+{1em}
+{}
+
+\titlespacing*{\section}{0pt}{2em}{0.5em}
+
+%----------------------------------------------------------------------------------------
+%	THEOREM STYLES & BOXES
+%----------------------------------------------------------------------------------------
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+\usepackage[framemethod=default]{mdframed}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,breakable}
+
+\definecolor{lightblue}{RGB}{230,245,255}
+
+\newtcolorbox{mybluebox}[1][]{
+	colback=myblue!10,
+	colframe=myblue,
+	boxrule=1pt,
+	arc=6pt,
+	fonttitle=\bfseries,
+	coltitle=black,
+	breakable,
+	enhanced,
+	title=#1
+}
+
+%----------------------------------------------------------------------------------------
+%	REMARK ENVIRONMENT
+%----------------------------------------------------------------------------------------
+
+\newenvironment{remark}{\par\vspace{10pt}\small
+\begin{list}{}{\leftmargin=35pt \rightmargin=25pt}\item\ignorespaces
+\makebox[-2.5pt]{\begin{tikzpicture}[overlay]
+\node[draw=myblue!60,line width=1pt,circle,fill=myblue!25,font=\sffamily\bfseries,inner sep=2pt,outer sep=0pt] at (-15pt,0pt){\textcolor{myblue}{R}};\end{tikzpicture}}
+\advance\baselineskip -1pt}{\end{list}\vskip5pt}
+
