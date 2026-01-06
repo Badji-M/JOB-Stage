@@ -50,67 +50,62 @@
 
 \begin{document}
 
-%----------------------------------------------------------------------------------------
-%	TITLE PAGE
-%----------------------------------------------------------------------------------------
-
-\begingroup
-\thispagestyle{empty}
-\begin{tikzpicture}[remember picture,overlay]
-\coordinate [below=12cm] (midpoint) at (current page.north);
-\node at (current page.north west)
-{\begin{tikzpicture}[remember picture,overlay]
-\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{background}}; % Background image
-\draw[anchor=north] (midpoint) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering The Search for a Title\\[15pt] % Book title
-{\Large A Profound Subtitle}\\[20pt] % Subtitle
-{\huge Dr. BADJI}}}; % Author name
-\end{tikzpicture}};
-\end{tikzpicture}
-\vfill
-\endgroup
+%-----------------------------------------------------------------------------------
 
 %----------------------------------------------------------------------------------------
 %	COPYRIGHT PAGE
 %----------------------------------------------------------------------------------------
 
-\newpage
-~\vfill
-\thispagestyle{empty})
-
-\noindent Copyright \copyright\ 2013 John Smith\\ % Copyright notice
-
-\noindent \textsc{Published by Publisher}\\ % Publisher
-
-\noindent \textsc{book-website.com}\\ % URL
-
-\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the ``License''). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed toa	 in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\ % License information
-
-\noindent \textit{First printing, March 2013} % Printing/edition date
 
 
 
 \include{Chapters/00-Decharge}
 \include{Chapters/00-Remerciements}
+
 %----------------------------------------------------------------------------------------
-%	TABLE OF CONTENTS
+%	SOMMAIRE (Summary - Chapters Only)
 %----------------------------------------------------------------------------------------
 
-%\usechapterimagefalse % If you don't want to include a chapter image, use this to toggle images off - it can be enabled later with \usechapterimagetrue
+\cleardoublepage
+\pagestyle{empty}
 
+{\setcounter{tocdepth}{0}
+\renewcommand{\contentsname}{Sommaire}
+\tableofcontents
+\renewcommand{\contentsname}{Contents}
+}
 
-\pagestyle{empty} % No headers
+\cleardoublepage
+\pagestyle{fancy}
 
-\tableofcontents % Print the table of contents itself
+%----------------------------------------------------------------------------------------
+%	LIST OF FIGURES
+%----------------------------------------------------------------------------------------
 
-\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+\renewcommand{\listfigurename}{Listes des figures}
+\listoffigures
 
-\pagestyle{fancy} % Print headers again
+\cleardoublepage
 
+%----------------------------------------------------------------------------------------
+%	LIST OF TABLES
+%----------------------------------------------------------------------------------------
+
+\renewcommand{\listtablename}{Listes des tableaux}
+\listoftables
+
+\cleardoublepage
+\pagestyle{fancy}
+
+%----------------------------------------------------------------------------------------
+%	MAIN CONTENT CHAPTERS
+%----------------------------------------------------------------------------------------
+\include{Chapters/sigles.tex}}
 %----------------------------------------------------------------------------------------
 %	PART
 %----------------------------------------------------------------------------------------
 
-\part{Premiere partie}
+%\part{Premiere partie}
 
 %----------------------------------------------------------------------------------------
 %	CHAPTER 1
@@ -121,20 +116,21 @@
 \include{Chapters/revue.tex}
 \include{Chapters/cadre_et_methodologie.tex}
 \include{Chapters/Stat_desc.tex}
+\include{Chapters/analyse_interpretation.tex}
 
 %----------------------------------------------------------------------------------------
 %	CHAPTER 2
 %----------------------------------------------------------------------------------------
 
 
-\chapter*{Bibliography}
-%----------------------------------------------------------------------------------------
-%	BIBLIOGRAPHY
-%----------------------------------------------------------------------------------------
-%\chapter*{Bibliographie} % ou Bibliography si tu veux en anglais
-%\addcontentsline{toc}{chapter}{Bibliographie} % pour l'ajouter à la table des matières
-
-\printbibliography
+%\chapter*{Bibliography}
+%%----------------------------------------------------------------------------------------
+%%	BIBLIOGRAPHY
+%%----------------------------------------------------------------------------------------
+%%\chapter*{Bibliographie} % ou Bibliography si tu veux en anglais
+%%\addcontentsline{toc}{chapter}{Bibliographie} % pour l'ajouter à la table des matières
+%
+%\printbibliography
 
 
 %----------------------------------------------------------------------------------------
@@ -146,6 +142,18 @@
 \setlength{\columnsep}{0.75cm}
 \addcontentsline{toc}{chapter}{\textcolor{ocre}{Index}}
 %\printindex % C'est moi qui l'ai mis en commentaire
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS (COMPLETE - at end of document)
+%----------------------------------------------------------------------------------------
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\textcolor{ocre}{Table des matières complète}}
+\chapter*{Table des matières complète}
+
+\setcounter{tocdepth}{3}
+\tableofcontents
 
 %----------------------------------------------------------------------------------------
 

@@ -1,29 +1,52 @@
 \babel@toc {english}{}\relax 
-\contentsline {part}{\@mypartnumtocformat {I}{Premiere partie}}{11}{part.1}%
+\contentsline {part}{\@mypartnumtocformat {I}{Premiere partie}}{7}{part.1}%
 \ttl@starttoc {default@1}
-\contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Présentation de la structure d'accueil}{15}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Historique, rôle et mission de l'ANSD}{15}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Structure organisationnelle}{16}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Présentation de la DMCI}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Division de la Méthodologie et de l’Innovation (DMI)}{17}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Division de la Coopération et de la Coordination Statistique (DCC)}{17}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Bilan du Stage}{18}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Revue de litterature}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Revue théorique}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Revue empirique}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Revue méthodologique}{21}{section.3.3}%
-\contentsline {paragraph}{1. Moyenne arithmétique (durabilité faible)}{22}{Item.3}%
-\contentsline {paragraph}{2. Minimum de Leontief (durabilité forte)}{23}{equation.3.1}%
-\contentsline {paragraph}{3. Moyenne géométrique (substituabilité intermédiaire)}{23}{equation.3.2}%
-\contentsline {paragraph}{Choix pour le présent rapport}{23}{equation.3.3}%
-\contentsline {chapter}{\numberline {4}Cadre conceptuel et Méthodologie}{25}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Cadre conceptuel}{25}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Introduction générale aux ODD}{25}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Présentation des 17 ODD}{25}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Définitions des concepts clés}{27}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Justification des indicateurs retenus}{28}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}Méthodologie de calcul de l'indicateur ODD}{28}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Pondération des indicateurs}{29}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Agrégation des indicateurs}{29}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Présentation de la structure d'accueil}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Historique, rôle et mission de l'ANSD}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Structure organisationnelle}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Présentation de la DMCI}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Division de la Méthodologie et de l’Innovation (DMI)}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Division de la Coopération et de la Coordination Statistique (DCC)}{13}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Bilan du Stage}{14}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Revue de litterature}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Revue théorique}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Revue empirique}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Revue méthodologique}{17}{section.3.3}%
+\contentsline {paragraph}{1. Moyenne arithmétique (durabilité faible)}{18}{Item.3}%
+\contentsline {paragraph}{2. Minimum de Leontief (durabilité forte)}{19}{equation.3.1}%
+\contentsline {paragraph}{3. Moyenne géométrique (substituabilité intermédiaire)}{19}{equation.3.2}%
+\contentsline {paragraph}{Choix pour le présent rapport}{19}{equation.3.3}%
+\contentsline {chapter}{\numberline {4}Cadre conceptuel et Méthodologie}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Cadre conceptuel}{21}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Introduction générale aux ODD}{21}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Présentation des 17 ODD}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Définitions des concepts clés}{23}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Justification des indicateurs retenus}{24}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Méthodologie de calcul de l'indicateur ODD}{24}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Pondération des indicateurs}{25}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Agrégation des indicateurs}{25}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Analyse et interprétation des résultats}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Cible 6.1 : Accès universel à l’eau potable}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Cible 6.2 : Accès à l’assainissement et à l’hygiène}{44}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Cible 6.4 : Gestion durable des ressources en eau}{44}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Cible 8.5 : Travail décent et réduction du chômage}{48}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Cible 10.1 : Réduction des inégalités de revenus}{53}{section.5.5}%
+\contentsline {section}{\numberline {5.6}ODD 11 : Villes et communautés durables}{55}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Cible 12.2 : Utilisation durable des ressources naturelles}{57}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Cible 12.4 : Réduction des impacts environnementaux des produits chimiques et polluants}{57}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Cible 13.2 : Intégration des mesures de lutte contre le changement climatique}{60}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Cible 13.3 : Sensibilisation et renforcement des capacités}{60}{section.5.10}%
+\contentsline {section}{\numberline {5.11}Vie acquatique}{63}{section.5.11}%
+\contentsline {subsection}{\numberline {5.11.1}Cible 14.2 : Protection des écosystèmes marins}{63}{subsection.5.11.1}%
+\contentsline {subsection}{\numberline {5.11.2}Cible 14.4 : Gestion durable de la pêche}{63}{subsection.5.11.2}%
+\contentsline {section}{\numberline {5.12}ODD 15 : Vie terrestre}{66}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Cible 15.1 : Protection des écosystèmes terrestres et d’eau douce}{66}{subsection.5.12.1}%
+\contentsline {section}{\numberline {5.13}ODD 16 : Paix, justice et institutions efficaces}{69}{section.5.13}%
+\contentsline {section}{\numberline {5.14}ODD 17 : Partenariats pour la réalisation des objectifs}{71}{section.5.14}%
+\contentsline {chapter}{\numberline {6}Tests et Robustesse}{73}{chapter.6}%
+\contentsline {subsection}{\numberline {6.0.1}Principe général de la simulation Monte Carlo}{73}{subsection.6.0.1}%
+\contentsline {subsection}{\numberline {6.0.2}Robustesse des scores ODD}{73}{subsection.6.0.2}%
+\contentsline {subsection}{\numberline {6.0.3}Robustesse du score ODD global}{74}{subsection.6.0.3}%
+\contentsline {subsection}{\numberline {6.0.4}Discussion}{75}{subsection.6.0.4}%
 \contentsfinish 

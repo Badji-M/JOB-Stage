@@ -1,0 +1,494 @@
+
+\section*{Synthèse de la performance - ODD2}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD2_scores.png}
+  \caption{Performance par indicateur - ODD2}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD241 &  & 0.14 & 0.55 & 0.25 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD222a & Emaciation parmi les enfants de moins de 5 ans & 0.10 & 0.00 & 0.38 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD231a &  & 2430.00 & 4638.67 & 0.52 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD222c & Insuffisance pondérale parmi les enfants de moins de 5 ans & 0.16 & 0.00 & 0.59 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD221 & Retard de croissance parmi les enfants de moins de 5 ans & 0.17 & 0.00 & 0.65 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD212 &  & 0.30 & 0.00 & 0.70 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD211 &  & 0.06 & 0.00 & 0.86 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD223 &  & 0.07 & 0.00 & 0.93 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD222b & Surpoids (obésité) parmi les enfants de moins de 5 ans & 0.01 & 0.00 & 0.97 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD2 révèle un score global de 0.6504, basé sur 9 indicateur(s). Les performances varient de 0.25 à 0.97, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD3}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD3_scores.png}
+  \caption{Performance par indicateur - ODD3}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD3b1b & Couverture du vaccin contre la rougeole (2nd dose) & 0.42 & 0.90 & 0.01 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD3c1 &  & 1.10 & 4.45 & 0.23 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD361 &  & 20.80 & 3.00 & 0.43 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD372 &  & 69.00 & 3.00 & 0.52 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD333 &  & 48.00 & 0.00 & 0.52 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD381 &  & 53.00 & 80.00 & 0.66 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD311 &  & 237.00 & 3.00 & 0.71 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD321 &  & 65.80 & 25.00 & 0.77 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD3b1c & Couverture du vaccin contre le pneumocoque (derni� & 0.80 & 0.90 & 0.80 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD371 & Besoins satisfaits en matière de planification fa & 0.57 & 0.48 & 0.83 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD3a1 & Utilisation actuelle de tabac parmi les personnes & 0.10 & 0.04 & 0.85 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD3b1a & Couverture du vaccin DTC (3e dose) & 0.83 & 0.90 & 0.85 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD382 & Grandes part des dépenses en santé & 0.07 & 0.04 & 0.89 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD312 & Assistance des accouchements par un prestataire qu & 0.93 & 1.00 & 0.91 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD352 & Consommation d'alcool pur (en litres) par habitant & 0.04 & 0.00 & 1.00 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD3 révèle un score global de 0.6656, basé sur 15 indicateur(s). Les performances varient de 0.01 à 1.00, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD4}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD4_scores.png}
+  \caption{Performance par indicateur - ODD4}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD422 &  & 0.23 & 1.00 & 0.00 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD412 &  & 0.26 & 1.00 & 0.10 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD4b1 &  & 0.72 & 0.26 & 0.21 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD461 & Alphabétisation adulte & 0.55 & 0.90 & 0.23 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD412c &  & 0.26 & 1.00 & 0.26 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD412b &  & 0.40 & 1.00 & 0.40 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD431a &  & 0.51 & 1.00 & 0.51 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD412a &  & 0.62 & 1.00 & 0.62 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD4c1 &  & 0.15 & 0.24 & 0.62 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD4a1a &  & 0.53 & 0.77 & 0.69 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD421 &  & 0.70 & 1.00 & 0.70 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD441 &  & 0.46 & 0.60 & 0.77 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD451a &  & 1.20 & 1.00 & 1.00 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD451b &  & 1.26 & 1.00 & 1.00 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD451c &  & 1.29 & 1.00 & 1.00 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD4 révèle un score global de 0.5410, basé sur 15 indicateur(s). Les performances varient de 0.00 à 1.00, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD5}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD5_scores.png}
+  \caption{Performance par indicateur - ODD5}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD5b1 & Taux de pénétration de la téléphonie mobile & 0.44 & 1.00 & 0.20 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD521b & Femmes de 20–24 ans ayant été mariées ou en u & 0.31 & 0.00 & 0.23 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD521 &  & 0.22 & 0.00 & 0.25 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD561 & Décisions informées concernant les relations sex & 0.58 & 1.00 & 0.39 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD5a1a2 &  & 0.08 & 0.17 & 0.46 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD521a & Femmes de 20–24 ans ayant été mariées ou en u & 0.09 & 0.00 & 0.53 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD5b1a & Possession de téléphone portable & 0.75 & 1.00 & 0.64 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD522 & Mutilation génitale féminine & 0.20 & 0.00 & 0.67 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD5a1a &  & 0.75 & 1.00 & 0.75 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD551b &  & 0.39 & 0.50 & 0.77 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD5b1b & Possession de téléphone portable par les hommes & 0.88 & 1.00 & 0.83 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD551a &  & 0.48 & 0.50 & 0.95 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD5 révèle un score global de 0.5572, basé sur 12 indicateur(s). Les performances varient de 0.20 à 0.95, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD6}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD6_scores.png}
+  \caption{Performance par indicateur - ODD6}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD632 &  & 0.44 & 1.00 & 0.34 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD651 &  & 0.53 & 1.00 & 0.53 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD611b & Accès aux services de base pour l'eau de boisson  & 0.61 & 1.00 & 0.61 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD621a & Accès aux services de base d'assainissement & 0.63 & 1.00 & 0.63 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD611a & Accès aux services de base pour l'eau de boisson & 0.87 & 1.00 & 0.87 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD621c & Défécation à l'air libre & 0.07 & 0.00 & 0.93 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD6 révèle un score global de 0.6501, basé sur 6 indicateur(s). Les performances varient de 0.34 à 0.93, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD7}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD7_scores.png}
+  \caption{Performance par indicateur - ODD7}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD712 & Accès aux énergies et technologies propres & 0.20 & 1.00 & 0.18 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD711 & Accès à l'électricité & 0.76 & 1.00 & 0.74 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD731 &  & 0.01 & 0.00 & 0.75 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD7 révèle un score global de 0.5584, basé sur 3 indicateur(s). Les performances varient de 0.18 à 0.75, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD8}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD8_scores.png}
+  \caption{Performance par indicateur - ODD8}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD852 &  & 0.52 & 0.78 & 0.06 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD8102a & Possession de compte bancaire parmi les femmes & 0.09 & 1.00 & 0.09 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD8101 &  & 7.10 & 50.00 & 0.12 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD831 &  & 0.93 & 0.50 & 0.15 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD8102b & Possession de compte bancaire parmi les hommes & 0.19 & 1.00 & 0.19 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD811 &  & 0.01 & 0.04 & 0.25 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD861 &  & 0.47 & 0.81 & 0.35 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD851 & Rémunération horaire moyenne des salariés & 833.60 & 1676.37 & 0.50 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD891 &  & 0.01 & 0.01 & 0.73 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD871 &  & 0.04 & 0.00 & 0.91 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD8 révèle un score global de 0.3340, basé sur 10 indicateur(s). Les performances varient de 0.06 à 0.91, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD9}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD9_scores.png}
+  \caption{Performance par indicateur - ODD9}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD941 &  & 0.68 & 0.00 & 0.32 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD921a &  & 0.14 & 0.34 & 0.42 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD911 &  & 0.68 & 0.90 & 0.59 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD9c1 &  & 0.64 & 1.00 & 0.63 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD922 & Emploi dans l'industrie manufacturière & 0.25 & 0.30 & 0.84 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD9 révèle un score global de 0.5599, basé sur 5 indicateur(s). Les performances varient de 0.32 à 0.84, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD10}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD10_scores.png}
+  \caption{Performance par indicateur - ODD10}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1041 &  & 0.24 & 0.55 & 0.44 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1021 & Revenu inférieur à la moitié du revenu median & 0.10 & 0.15 & 0.70 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1011 & Dépenses des 40 % de la population les plus pauvre & 0.28 & 0.40 & 0.71 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1042 & Indice de Gini & 0.33 & 0.30 & 0.96 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD10 révèle un score global de 0.6994, basé sur 4 indicateur(s). Les performances varient de 0.44 à 0.96, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD11}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD11_scores.png}
+  \caption{Performance par indicateur - ODD11}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1151 & Victimes de catastrophes & 0.18 & 0.00 & 0.82 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1121 &  & 0.86 & 1.00 & 0.85 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD11 révèle un score global de 0.8337, basé sur 2 indicateur(s). Les performances varient de 0.82 à 0.85, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD12}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD12_scores.png}
+  \caption{Performance par indicateur - ODD12}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+     & Production-based air pollution (DALYs per 1,000 population) & 0.69 & 0.00 & 0.97 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD12 révèle un score global de 0.9712, basé sur 1 indicateur(s). Les performances varient de 0.97 à 0.97, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD13}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD13_scores.png}
+  \caption{Performance par indicateur - ODD13}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1322 &  & 0.68 & 0.00 & 0.97 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD13 révèle un score global de 0.9660, basé sur 1 indicateur(s). Les performances varient de 0.97 à 0.97, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD14}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD14_scores.png}
+  \caption{Performance par indicateur - ODD14}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1471 &  & 0.01 & 0.10 & 0.05 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD14 révèle un score global de 0.0526, basé sur 1 indicateur(s). Les performances varient de 0.05 à 0.05, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD15}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD15_scores.png}
+  \caption{Performance par indicateur - ODD15}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+     & Mean area that is protected in freshwater sites important to biodiversity (%) & 23.91 & 100.00 & 0.24 \\
+    \rowcolor[HTML]{E8F0FF}
+     & Mean area that is protected in terrestrial sites important to biodiversity (%) & 45.41 & 100.00 & 0.45 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD15 révèle un score global de 0.3466, basé sur 2 indicateur(s). Les performances varient de 0.24 à 0.45, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD16}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD16_scores.png}
+  \caption{Performance par indicateur - ODD16}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1613 &  & 0.32 & 0.05 & 0.18 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1632 &  & 0.54 & 0.00 & 0.28 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1614 &  & 0.34 & 0.75 & 0.45 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1691 & Enregistrement à l'Etat civil & 0.81 & 1.00 & 0.81 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD16 révèle un score global de 0.4320, basé sur 4 indicateur(s). Les performances varient de 0.18 à 0.81, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+
+
+\section*{Synthèse de la performance - ODD17}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{Pictures/graphs/ODD17_scores.png}
+  \caption{Performance par indicateur - ODD17}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabularx}{0.85\textwidth}{l l c c c}
+    \rowcolor[HTML]{003D82}
+    \color{white}\textbf{Code} & \color{white}\textbf{Indicateur} & \color{white}\textbf{Valeur} & \color{white}\textbf{Cible} & \color{white}\textbf{Score} \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1761 &  & 0.64 & 15.00 & 0.04 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1781a & Utilisation de l'internet (Femmes) & 0.66 & 1.00 & 0.66 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1781b & Utilisation de l'internet (Homme) & 0.73 & 1.00 & 0.73 \\
+    \rowcolor[HTML]{E8F0FF}
+    ODD1712 &  & 0.85 & 1.00 & 0.85 \\
+    \rowcolor[HTML]{F5F8FC}
+    ODD1732 & Envois de fonds des travailleurs migrants & 0.09 & 0.10 & 0.95 \\
+  \end{tabularx}
+\end{table}
+
+L'analyse du ODD17 révèle un score global de 0.6447, basé sur 5 indicateur(s). Les performances varient de 0.04 à 0.95, montrant une certaine disparité dans la mise en oeuvre des cibles. Les indicateurs critiques (score < 0,30) nécessitent une attention particulière.
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.13)  25 OCT 2025 09:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.13)  6 JAN 2026 04:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -490,9 +490,49 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count319
 \@thisrulewidth=\dimen279
 )
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip53
+\cftbeforetoctitleskip=\skip54
+\cftaftertoctitleskip=\skip55
+\cftbeforepartskip=\skip56
+\cftpartnumwidth=\skip57
+\cftpartindent=\skip58
+\cftbeforechapskip=\skip59
+\cftchapindent=\skip60
+\cftchapnumwidth=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\c@lofdepth=\count320
+\c@lotdepth=\count321
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
+)
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count320
+\c@float@type=\count322
 \float@exts=\toks32
 \float@box=\box65
 \@float@everytoks=\toks33
@@ -507,8 +547,8 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \ar@mcellbox=\box67
 \extrarowheight=\dimen281
 \NC@list=\toks34
-\extratabsurround=\skip53
-\backup@length=\skip54
+\extratabsurround=\skip87
+\backup@length=\skip88
 \ar@cellbox=\box68
 )
 \TX@col@width=\dimen282
@@ -516,32 +556,32 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \TX@old@col=\dimen284
 \TX@target=\dimen285
 \TX@delta=\dimen286
-\TX@cols=\count321
+\TX@cols=\count323
 \TX@ftn=\toks35
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \everycr=\toks36
-\minrowclearance=\skip55
-\rownum=\count322
+\minrowclearance=\skip89
+\rownum=\count324
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
-\LTleft=\skip56
-\LTright=\skip57
-\LTpre=\skip58
-\LTpost=\skip59
-\LTchunksize=\count323
+\LTleft=\skip90
+\LTright=\skip91
+\LTpre=\skip92
+\LTpost=\skip93
+\LTchunksize=\count325
 \LTcapwidth=\dimen287
 \LT@head=\box69
 \LT@firsthead=\box70
 \LT@foot=\box71
 \LT@lastfoot=\box72
 \LT@gbox=\box73
-\LT@cols=\count324
-\LT@rows=\count325
-\c@LT@tables=\count326
-\c@LT@chunks=\count327
+\LT@cols=\count326
+\LT@rows=\count327
+\c@LT@tables=\count328
+\c@LT@chunks=\count329
 \LT@p@ftn=\toks37
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\avant.sty
@@ -588,11 +628,11 @@ Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count328
+\etb@tempcnta=\count330
 )
 \MT@toks=\toks38
 \MT@tempbox=\box74
-\MT@count=\count329
+\MT@count=\count331
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks39
@@ -601,7 +641,7 @@ LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen288
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count330
+\MT@listname@count=\count332
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex
 .def
@@ -609,7 +649,7 @@ File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip60
+\MT@outer@space=\skip94
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -656,7 +696,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count331
+\lrq@indent=\count333
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -668,63 +708,63 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count332
-\c@listtotal=\count333
-\c@listcount=\count334
-\c@liststart=\count335
-\c@liststop=\count336
-\c@citecount=\count337
-\c@citetotal=\count338
-\c@multicitecount=\count339
-\c@multicitetotal=\count340
-\c@instcount=\count341
-\c@maxnames=\count342
-\c@minnames=\count343
-\c@maxitems=\count344
-\c@minitems=\count345
-\c@citecounter=\count346
-\c@maxcitecounter=\count347
-\c@savedcitecounter=\count348
-\c@uniquelist=\count349
-\c@uniquename=\count350
-\c@refsection=\count351
-\c@refsegment=\count352
-\c@maxextratitle=\count353
-\c@maxextratitleyear=\count354
-\c@maxextraname=\count355
-\c@maxextradate=\count356
-\c@maxextraalpha=\count357
-\c@abbrvpenalty=\count358
-\c@highnamepenalty=\count359
-\c@lownamepenalty=\count360
-\c@maxparens=\count361
-\c@parenlevel=\count362
-\blx@tempcnta=\count363
-\blx@tempcntb=\count364
-\blx@tempcntc=\count365
-\c@blx@maxsection=\count366
-\blx@maxsegment@0=\count367
-\blx@notetype=\count368
-\blx@parenlevel@text=\count369
-\blx@parenlevel@foot=\count370
-\blx@sectionciteorder@0=\count371
-\blx@sectionciteorderinternal@0=\count372
-\blx@entrysetcounter=\count373
-\blx@biblioinstance=\count374
-\labelnumberwidth=\skip61
-\labelalphawidth=\skip62
-\biblabelsep=\skip63
-\bibitemsep=\skip64
-\bibnamesep=\skip65
-\bibinitsep=\skip66
-\bibparsep=\skip67
-\bibhang=\skip68
+\c@tabx@nest=\count334
+\c@listtotal=\count335
+\c@listcount=\count336
+\c@liststart=\count337
+\c@liststop=\count338
+\c@citecount=\count339
+\c@citetotal=\count340
+\c@multicitecount=\count341
+\c@multicitetotal=\count342
+\c@instcount=\count343
+\c@maxnames=\count344
+\c@minnames=\count345
+\c@maxitems=\count346
+\c@minitems=\count347
+\c@citecounter=\count348
+\c@maxcitecounter=\count349
+\c@savedcitecounter=\count350
+\c@uniquelist=\count351
+\c@uniquename=\count352
+\c@refsection=\count353
+\c@refsegment=\count354
+\c@maxextratitle=\count355
+\c@maxextratitleyear=\count356
+\c@maxextraname=\count357
+\c@maxextradate=\count358
+\c@maxextraalpha=\count359
+\c@abbrvpenalty=\count360
+\c@highnamepenalty=\count361
+\c@lownamepenalty=\count362
+\c@maxparens=\count363
+\c@parenlevel=\count364
+\blx@tempcnta=\count365
+\blx@tempcntb=\count366
+\blx@tempcntc=\count367
+\c@blx@maxsection=\count368
+\blx@maxsegment@0=\count369
+\blx@notetype=\count370
+\blx@parenlevel@text=\count371
+\blx@parenlevel@foot=\count372
+\blx@sectionciteorder@0=\count373
+\blx@sectionciteorderinternal@0=\count374
+\blx@entrysetcounter=\count375
+\blx@biblioinstance=\count376
+\labelnumberwidth=\skip95
+\labelalphawidth=\skip96
+\biblabelsep=\skip97
+\bibitemsep=\skip98
+\bibnamesep=\skip99
+\bibinitsep=\skip100
+\bibparsep=\skip101
+\bibhang=\skip102
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count375
-\c@maxcomprange=\count376
-\c@mincompwidth=\count377
+\c@mincomprange=\count377
+\c@maxcomprange=\count378
+\c@mincompwidth=\count379
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -735,88 +775,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count378
-\c@savedafterword=\count379
-\c@annotator=\count380
-\c@savedannotator=\count381
-\c@author=\count382
-\c@savedauthor=\count383
-\c@bookauthor=\count384
-\c@savedbookauthor=\count385
-\c@commentator=\count386
-\c@savedcommentator=\count387
-\c@editor=\count388
-\c@savededitor=\count389
-\c@editora=\count390
-\c@savededitora=\count391
-\c@editorb=\count392
-\c@savededitorb=\count393
-\c@editorc=\count394
-\c@savededitorc=\count395
-\c@foreword=\count396
-\c@savedforeword=\count397
-\c@holder=\count398
-\c@savedholder=\count399
-\c@introduction=\count400
-\c@savedintroduction=\count401
-\c@namea=\count402
-\c@savednamea=\count403
-\c@nameb=\count404
-\c@savednameb=\count405
-\c@namec=\count406
-\c@savednamec=\count407
-\c@translator=\count408
-\c@savedtranslator=\count409
-\c@shortauthor=\count410
-\c@savedshortauthor=\count411
-\c@shorteditor=\count412
-\c@savedshorteditor=\count413
-\c@labelname=\count414
-\c@savedlabelname=\count415
-\c@institution=\count416
-\c@savedinstitution=\count417
-\c@lista=\count418
-\c@savedlista=\count419
-\c@listb=\count420
-\c@savedlistb=\count421
-\c@listc=\count422
-\c@savedlistc=\count423
-\c@listd=\count424
-\c@savedlistd=\count425
-\c@liste=\count426
-\c@savedliste=\count427
-\c@listf=\count428
-\c@savedlistf=\count429
-\c@location=\count430
-\c@savedlocation=\count431
-\c@organization=\count432
-\c@savedorganization=\count433
-\c@origlocation=\count434
-\c@savedoriglocation=\count435
-\c@origpublisher=\count436
-\c@savedorigpublisher=\count437
-\c@publisher=\count438
-\c@savedpublisher=\count439
-\c@language=\count440
-\c@savedlanguage=\count441
-\c@origlanguage=\count442
-\c@savedoriglanguage=\count443
-\c@pageref=\count444
-\c@savedpageref=\count445
-\shorthandwidth=\skip69
-\shortjournalwidth=\skip70
-\shortserieswidth=\skip71
-\shorttitlewidth=\skip72
-\shortauthorwidth=\skip73
-\shorteditorwidth=\skip74
-\locallabelnumberwidth=\skip75
-\locallabelalphawidth=\skip76
-\localshorthandwidth=\skip77
-\localshortjournalwidth=\skip78
-\localshortserieswidth=\skip79
-\localshorttitlewidth=\skip80
-\localshortauthorwidth=\skip81
-\localshorteditorwidth=\skip82
+\c@afterword=\count380
+\c@savedafterword=\count381
+\c@annotator=\count382
+\c@savedannotator=\count383
+\c@author=\count384
+\c@savedauthor=\count385
+\c@bookauthor=\count386
+\c@savedbookauthor=\count387
+\c@commentator=\count388
+\c@savedcommentator=\count389
+\c@editor=\count390
+\c@savededitor=\count391
+\c@editora=\count392
+\c@savededitora=\count393
+\c@editorb=\count394
+\c@savededitorb=\count395
+\c@editorc=\count396
+\c@savededitorc=\count397
+\c@foreword=\count398
+\c@savedforeword=\count399
+\c@holder=\count400
+\c@savedholder=\count401
+\c@introduction=\count402
+\c@savedintroduction=\count403
+\c@namea=\count404
+\c@savednamea=\count405
+\c@nameb=\count406
+\c@savednameb=\count407
+\c@namec=\count408
+\c@savednamec=\count409
+\c@translator=\count410
+\c@savedtranslator=\count411
+\c@shortauthor=\count412
+\c@savedshortauthor=\count413
+\c@shorteditor=\count414
+\c@savedshorteditor=\count415
+\c@labelname=\count416
+\c@savedlabelname=\count417
+\c@institution=\count418
+\c@savedinstitution=\count419
+\c@lista=\count420
+\c@savedlista=\count421
+\c@listb=\count422
+\c@savedlistb=\count423
+\c@listc=\count424
+\c@savedlistc=\count425
+\c@listd=\count426
+\c@savedlistd=\count427
+\c@liste=\count428
+\c@savedliste=\count429
+\c@listf=\count430
+\c@savedlistf=\count431
+\c@location=\count432
+\c@savedlocation=\count433
+\c@organization=\count434
+\c@savedorganization=\count435
+\c@origlocation=\count436
+\c@savedoriglocation=\count437
+\c@origpublisher=\count438
+\c@savedorigpublisher=\count439
+\c@publisher=\count440
+\c@savedpublisher=\count441
+\c@language=\count442
+\c@savedlanguage=\count443
+\c@origlanguage=\count444
+\c@savedoriglanguage=\count445
+\c@pageref=\count446
+\c@savedpageref=\count447
+\shorthandwidth=\skip103
+\shortjournalwidth=\skip104
+\shortserieswidth=\skip105
+\shorttitlewidth=\skip106
+\shortauthorwidth=\skip107
+\shorteditorwidth=\skip108
+\locallabelnumberwidth=\skip109
+\locallabelalphawidth=\skip110
+\localshorthandwidth=\skip111
+\localshortjournalwidth=\skip112
+\localshortserieswidth=\skip113
+\localshorttitlewidth=\skip114
+\localshortauthorwidth=\skip115
+\localshorteditorwidth=\skip116
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -828,19 +868,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count446
-\c@textcitetotal=\count447
-\c@textcitemaxnames=\count448
-\c@biburlbigbreakpenalty=\count449
-\c@biburlbreakpenalty=\count450
-\c@biburlnumpenalty=\count451
-\c@biburlucpenalty=\count452
-\c@biburllcpenalty=\count453
+\c@textcitecount=\count448
+\c@textcitetotal=\count449
+\c@textcitemaxnames=\count450
+\c@biburlbigbreakpenalty=\count451
+\c@biburlbreakpenalty=\count452
+\c@biburlnumpenalty=\count453
+\c@biburlucpenalty=\count454
+\c@biburllcpenalty=\count455
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count454
+\c@smartand=\count456
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -853,8 +893,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count455
-\c@bbx:relatedtotal=\count456
+\c@bbx:relatedcount=\count457
+\c@bbx:relatedtotal=\count458
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -912,15 +952,15 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 tring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count457
+\c@section@level=\count459
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen289
-\Hy@linkcounter=\count458
-\Hy@pagecounter=\count459
+\Hy@linkcounter=\count460
+\Hy@pagecounter=\count461
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -929,7 +969,7 @@ Now handling font encoding PD1 ...
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count460
+\Hy@SavedSpaceFactor=\count462
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -943,7 +983,7 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count461
+\c@Hy@tempcnt=\count463
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen290
 
@@ -955,7 +995,7 @@ y
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count462
+\Fld@menulength=\count464
 \Field@Width=\dimen291
 \Fld@charsize=\dimen292
 Package hyperref Info: Hyper figures OFF on input line 6078.
@@ -965,15 +1005,15 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count463
-\c@Item=\count464
-\c@Hfootnote=\count465
+\Hy@abspage=\count465
+\c@Item=\count466
+\c@Hfootnote=\count467
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count466
-\c@bookmark@seq@number=\count467
+\Fld@listcount=\count468
+\c@bookmark@seq@number=\count469
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilech
 eck.sty
@@ -986,7 +1026,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip83
+\Hy@SectionHShift=\skip117
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2025/01/04 v2.17 TOC entries
@@ -995,25 +1035,25 @@ Package: titletoc 2025/01/04 v2.17 TOC entries
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip84
-\f@nch@offset@elh=\skip85
-\f@nch@offset@erh=\skip86
-\f@nch@offset@olh=\skip87
-\f@nch@offset@orh=\skip88
-\f@nch@offset@elf=\skip89
-\f@nch@offset@erf=\skip90
-\f@nch@offset@olf=\skip91
-\f@nch@offset@orf=\skip92
-\f@nch@height=\skip93
-\f@nch@footalignment=\skip94
-\f@nch@widthL=\skip95
-\f@nch@widthC=\skip96
-\f@nch@widthR=\skip97
+\f@nch@headwidth=\skip118
+\f@nch@offset@elh=\skip119
+\f@nch@offset@erh=\skip120
+\f@nch@offset@olh=\skip121
+\f@nch@offset@orh=\skip122
+\f@nch@offset@elf=\skip123
+\f@nch@offset@erf=\skip124
+\f@nch@offset@olf=\skip125
+\f@nch@offset@orf=\skip126
+\f@nch@height=\skip127
+\f@nch@footalignment=\skip128
+\f@nch@widthL=\skip129
+\f@nch@widthC=\skip130
+\f@nch@widthR=\skip131
 \@temptokenb=\toks42
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
-\@mathmargin=\skip98
+\@mathmargin=\skip132
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -1031,14 +1071,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count468
+\inf@bad=\count470
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count469
-\leftroot@=\count470
+\uproot@=\count471
+\leftroot@=\count472
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count471
-\DOTSCASE@=\count472
+\classnum@=\count473
+\DOTSCASE@=\count474
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -1051,20 +1091,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen296
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count473
+\macc@depth=\count475
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count474
+\c@MaxMatrixCols=\count476
 \dotsspace@=\muskip22
-\c@parentequation=\count475
-\dspbrk@lvl=\count476
+\c@parentequation=\count477
+\dspbrk@lvl=\count478
 \tag@help=\toks44
-\row@=\count477
-\column@=\count478
-\maxfields@=\count479
+\row@=\count479
+\column@=\count480
+\maxfields@=\count481
 \andhelp@=\toks45
 \eqnshift@=\dimen297
 \alignsep@=\dimen298
@@ -1073,8 +1113,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \totwidth@=\dimen301
 \lineht@=\dimen302
 \@envbody=\toks46
-\multlinegap=\skip99
-\multlinetaggap=\skip100
+\multlinegap=\skip133
+\multlinetaggap=\skip134
 \mathdisplay@stack=\toks47
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
@@ -1096,18 +1136,18 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headfont=\toks50
 \thm@notefont=\toks51
 \thm@headpunct=\toks52
-\thm@preskip=\skip101
-\thm@postskip=\skip102
-\thm@headsep=\skip103
+\thm@preskip=\skip135
+\thm@postskip=\skip136
+\thm@headsep=\skip137
 \dth@everypar=\toks53
 )
-\c@notation=\count480
-\c@dummy=\count481
-\c@problem=\count482
-\c@exerciseT=\count483
-\c@exampleT=\count484
-\c@vocabulary=\count485
-\c@definitionT=\count486
+\c@notation=\count482
+\c@dummy=\count483
+\c@problem=\count484
+\c@exerciseT=\count485
+\c@exampleT=\count486
+\c@vocabulary=\count487
+\c@definitionT=\count488
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
@@ -1128,53 +1168,53 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count487
+\c@abspage=\count489
 Package zref Info: New property: abspage on input line 67.
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2025/03/13 v1.3e reserve vertical space
 )
-\mdf@templength=\skip104
-\c@mdf@globalstyle@cnt=\count488
-\mdf@skipabove@length=\skip105
-\mdf@skipbelow@length=\skip106
-\mdf@leftmargin@length=\skip107
-\mdf@rightmargin@length=\skip108
-\mdf@innerleftmargin@length=\skip109
-\mdf@innerrightmargin@length=\skip110
-\mdf@innertopmargin@length=\skip111
-\mdf@innerbottommargin@length=\skip112
-\mdf@splittopskip@length=\skip113
-\mdf@splitbottomskip@length=\skip114
-\mdf@outermargin@length=\skip115
-\mdf@innermargin@length=\skip116
-\mdf@linewidth@length=\skip117
-\mdf@innerlinewidth@length=\skip118
-\mdf@middlelinewidth@length=\skip119
-\mdf@outerlinewidth@length=\skip120
-\mdf@roundcorner@length=\skip121
-\mdf@footenotedistance@length=\skip122
-\mdf@userdefinedwidth@length=\skip123
-\mdf@needspace@length=\skip124
-\mdf@frametitleaboveskip@length=\skip125
-\mdf@frametitlebelowskip@length=\skip126
-\mdf@frametitlerulewidth@length=\skip127
-\mdf@frametitleleftmargin@length=\skip128
-\mdf@frametitlerightmargin@length=\skip129
-\mdf@shadowsize@length=\skip130
-\mdf@extratopheight@length=\skip131
-\mdf@subtitleabovelinewidth@length=\skip132
-\mdf@subtitlebelowlinewidth@length=\skip133
-\mdf@subtitleaboveskip@length=\skip134
-\mdf@subtitlebelowskip@length=\skip135
-\mdf@subtitleinneraboveskip@length=\skip136
-\mdf@subtitleinnerbelowskip@length=\skip137
-\mdf@subsubtitleabovelinewidth@length=\skip138
-\mdf@subsubtitlebelowlinewidth@length=\skip139
-\mdf@subsubtitleaboveskip@length=\skip140
-\mdf@subsubtitlebelowskip@length=\skip141
-\mdf@subsubtitleinneraboveskip@length=\skip142
-\mdf@subsubtitleinnerbelowskip@length=\skip143
+\mdf@templength=\skip138
+\c@mdf@globalstyle@cnt=\count490
+\mdf@skipabove@length=\skip139
+\mdf@skipbelow@length=\skip140
+\mdf@leftmargin@length=\skip141
+\mdf@rightmargin@length=\skip142
+\mdf@innerleftmargin@length=\skip143
+\mdf@innerrightmargin@length=\skip144
+\mdf@innertopmargin@length=\skip145
+\mdf@innerbottommargin@length=\skip146
+\mdf@splittopskip@length=\skip147
+\mdf@splitbottomskip@length=\skip148
+\mdf@outermargin@length=\skip149
+\mdf@innermargin@length=\skip150
+\mdf@linewidth@length=\skip151
+\mdf@innerlinewidth@length=\skip152
+\mdf@middlelinewidth@length=\skip153
+\mdf@outerlinewidth@length=\skip154
+\mdf@roundcorner@length=\skip155
+\mdf@footenotedistance@length=\skip156
+\mdf@userdefinedwidth@length=\skip157
+\mdf@needspace@length=\skip158
+\mdf@frametitleaboveskip@length=\skip159
+\mdf@frametitlebelowskip@length=\skip160
+\mdf@frametitlerulewidth@length=\skip161
+\mdf@frametitleleftmargin@length=\skip162
+\mdf@frametitlerightmargin@length=\skip163
+\mdf@shadowsize@length=\skip164
+\mdf@extratopheight@length=\skip165
+\mdf@subtitleabovelinewidth@length=\skip166
+\mdf@subtitlebelowlinewidth@length=\skip167
+\mdf@subtitleaboveskip@length=\skip168
+\mdf@subtitlebelowskip@length=\skip169
+\mdf@subtitleinneraboveskip@length=\skip170
+\mdf@subtitleinnerbelowskip@length=\skip171
+\mdf@subsubtitleabovelinewidth@length=\skip172
+\mdf@subsubtitlebelowlinewidth@length=\skip173
+\mdf@subsubtitleaboveskip@length=\skip174
+\mdf@subsubtitlebelowskip@length=\skip175
+\mdf@subsubtitleinneraboveskip@length=\skip176
+\mdf@subsubtitleinnerbelowskip@length=\skip177
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
@@ -1184,43 +1224,43 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@splitbox@one=\box79
 \mdf@splitbox@two=\box80
 \mdf@splitbox@save=\box81
-\mdfsplitboxwidth=\skip144
-\mdfsplitboxtotalwidth=\skip145
-\mdfsplitboxheight=\skip146
-\mdfsplitboxdepth=\skip147
-\mdfsplitboxtotalheight=\skip148
-\mdfframetitleboxwidth=\skip149
-\mdfframetitleboxtotalwidth=\skip150
-\mdfframetitleboxheight=\skip151
-\mdfframetitleboxdepth=\skip152
-\mdfframetitleboxtotalheight=\skip153
-\mdffootnoteboxwidth=\skip154
-\mdffootnoteboxtotalwidth=\skip155
-\mdffootnoteboxheight=\skip156
-\mdffootnoteboxdepth=\skip157
-\mdffootnoteboxtotalheight=\skip158
-\mdftotallinewidth=\skip159
-\mdfboundingboxwidth=\skip160
-\mdfboundingboxtotalwidth=\skip161
-\mdfboundingboxheight=\skip162
-\mdfboundingboxdepth=\skip163
-\mdfboundingboxtotalheight=\skip164
-\mdf@freevspace@length=\skip165
-\mdf@horizontalwidthofbox@length=\skip166
-\mdf@verticalmarginwhole@length=\skip167
-\mdf@horizontalspaceofbox=\skip168
-\mdfsubtitleheight=\skip169
-\mdfsubsubtitleheight=\skip170
-\c@mdfcountframes=\count489
+\mdfsplitboxwidth=\skip178
+\mdfsplitboxtotalwidth=\skip179
+\mdfsplitboxheight=\skip180
+\mdfsplitboxdepth=\skip181
+\mdfsplitboxtotalheight=\skip182
+\mdfframetitleboxwidth=\skip183
+\mdfframetitleboxtotalwidth=\skip184
+\mdfframetitleboxheight=\skip185
+\mdfframetitleboxdepth=\skip186
+\mdfframetitleboxtotalheight=\skip187
+\mdffootnoteboxwidth=\skip188
+\mdffootnoteboxtotalwidth=\skip189
+\mdffootnoteboxheight=\skip190
+\mdffootnoteboxdepth=\skip191
+\mdffootnoteboxtotalheight=\skip192
+\mdftotallinewidth=\skip193
+\mdfboundingboxwidth=\skip194
+\mdfboundingboxtotalwidth=\skip195
+\mdfboundingboxheight=\skip196
+\mdfboundingboxdepth=\skip197
+\mdfboundingboxtotalheight=\skip198
+\mdf@freevspace@length=\skip199
+\mdf@horizontalwidthofbox@length=\skip256
+\mdf@verticalmarginwhole@length=\skip257
+\mdf@horizontalspaceofbox=\skip258
+\mdfsubtitleheight=\skip259
+\mdfsubsubtitleheight=\skip260
+\c@mdfcountframes=\count491
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count490
-\c@mdf@env@i=\count491
-\c@mdf@env@ii=\count492
-\c@mdf@zref@counter=\count493
+\mdf@envdepth=\count492
+\c@mdf@env@i=\count493
+\c@mdf@env@ii=\count494
+\c@mdf@zref@counter=\count495
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
@@ -1242,9 +1282,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@upperbox=\box83
 \tcb@lowerbox=\box84
 \tcb@phantombox=\box85
-\c@tcbbreakpart=\count494
-\c@tcblayer=\count495
-\c@tcolorbox@number=\count496
+\c@tcbbreakpart=\count496
+\c@tcblayer=\count497
+\c@tcolorbox@number=\count498
 \l__tcobox_tmpa_box=\box86
 \l__tcobox_tmpa_dim=\dimen303
 \tcb@temp=\box87
@@ -1284,14 +1324,14 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totalupperbox=\box93
 \tcb@totallowerbox=\box94
 )
-\esp=\skip171
-\ecart=\skip172
+\esp=\skip261
+\ecart=\skip262
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box95
-\beforetitleunit=\skip173
-\aftertitleunit=\skip174
+\beforetitleunit=\skip263
+\aftertitleunit=\skip264
 \ttl@plus=\dimen304
 \ttl@minus=\dimen305
 \ttl@toksa=\toks56
@@ -1299,9 +1339,9 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen307
 \titlewidthfirst=\dimen308
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 603.
-Package hyperref Info: Option `breaklinks' set `true' on input line 603.
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 603.
+Package hyperref Info: Option `colorlinks' set `false' on input line 597.
+Package hyperref Info: Option `breaklinks' set `true' on input line 597.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 597.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -1309,18 +1349,19 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count497
+\BKM@id=\count499
 )))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count498
-\@quotereset=\count499
+\@quotelevel=\count500
+\@quotereset=\count501
 (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
-(Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
-(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
-(Chapters/Stat_desc.aux))
+(Chapters/sigles.aux) (Chapters/01-Introduction.aux)
+(Chapters/02-Presentation_structure.aux) (Chapters/revue.aux)
+(Chapters/cadre_et_methodologie.aux) (Chapters/Stat_desc.aux)
+(Chapters/analyse_interpretation.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1378,16 +1419,16 @@ LaTeX Font Info:    ... okay on input line 51.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count500
+\scratchcounter=\count502
 \scratchdimen=\dimen309
 \scratchbox=\box96
-\nofMPsegments=\count501
-\nofMParguments=\count502
+\nofMPsegments=\count503
+\nofMParguments=\count504
 \everyMPshowfont=\toks57
-\MPscratchCnt=\count503
+\MPscratchCnt=\count505
 \MPscratchDim=\dimen310
-\MPnumerator=\count504
-\makeMPintoPDFobject=\count505
+\MPnumerator=\count506
+\makeMPintoPDFobject=\count507
 \everyMPtoPDFconversion=\toks58
 )
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
@@ -1437,27 +1478,75 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
 Package hyperref Info: Link coloring OFF on input line 51.
-<Pictures/background.pdf, id=6, 584.1825pt x 835.12pt>
-File: Pictures/background.pdf Graphic file (type pdf)
-<use Pictures/background.pdf>
-Package pdftex.def Info: Pictures/background.pdf  used on input line 63.
-(pdftex.def)             Requested size: 597.50787pt x 854.24503pt.
-LaTeX Font Info:    Trying to load font information for T1+pag on input line 64
-.
- (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
+\openout2 = `Chapters/00-Decharge.aux'.
+
+ (Chapters/00-Decharge.tex
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 1.
+
+
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 64.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pag' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 1.
+)
+
+[1
+
+
+
+{C:/Users/hp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hp/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+\openout2 = `Chapters/00-Remerciements.aux'.
+
+
+(Chapters/00-Remerciements.tex
+
+[2
+
+
+
+
+]
+
+[3]
+
+[4
+
+])
+
+[5]
+
+[6
+
+
+
+] (main.toc
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 66.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 9.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+
+[7]
+
+[8
+
+] (main.lof
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 66.
- (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+ 34.
+
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1465,35 +1554,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 66.
+ 34.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 66.
+ 34.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 66.
+ 34.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-6.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+4.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
 
 (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1502,190 +1591,90 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
-[1
-
-{C:/Users/hp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hp/AppD
-ata/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./Pictures/background.p
-df>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 8
-0.
- (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-
- []
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-
- []
+[9])
+\tf@lof=\write6
+\openout6 = `main.lof'.
 
 
 
-[2]
-\openout2 = `Chapters/00-Decharge.aux'.
+[10] (main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
 
- (Chapters/00-Decharge.tex
-! Undefined control sequence.
-l.1 \chapterimage
-                 {default.jpg} % Chapter heading image
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-
-[3
-
-]
-
-[4
-
-])
-
-[5]
-\openout2 = `Chapters/00-Remerciements.aux'.
-
- (Chapters/00-Remerciements.tex
-
-[6
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-)
-
-[7]
-
-[8
-
-
-
-] (main.toc
-Overfull \hbox (4.7415pt too wide) in paragraph at lines 2--2
- []\T1/pag/db/n/17.28 (-20) I 
- []
-
-
-Overfull \hbox (4.7415pt too wide) in paragraph at lines 2--2
- []\T1/pag/db/n/17.28 (-20) I 
- []
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-
-Overfull \hbox (4.79514pt too wide) in paragraph at lines 2--2
- [][][][][][][]| 
- []
-
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
-)
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
-
-
-[9]
-
-[10
-
-]
-\c@ttl@toc@default=\count506
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 113.
- (main.ptc
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|[]| [][][]\T1/pag/db/n/14.4 (+20) Présentation de la struc-ture
- []
-
-)
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 113.
 
 
 [11
 
 ]
 
-[12]
-\openout2 = `Chapters/01-Introduction.aux'.
+[12
 
- (Chapters/01-Introduction.tex
-Chapter 1.
-)
+]
+\openout2 = `Chapters/sigles.aux'.
+
+ (Chapters/sigles.tex
+Overfull \hbox (27.2871pt too wide) in alignment at lines 59--59
+[][] 
+ []
+
+
 
 [13
 
 
 ]
-\openout2 = `Chapters/02-Presentation_structure.aux'.
-
- (Chapters/02-Presentation_structure.tex
 
 [14
+
+]
+
+[15]
+
+[16
+
+])
+
+[17]
+! Too many }'s.
+l.103 \include{Chapters/sigles.tex}}
+                                    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+\openout2 = `Chapters/01-Introduction.aux'.
+
+(Chapters/01-Introduction.tex
+
+[18
 
 
 
 
 ]
-Chapter 2.
+Underfull \vbox (badness 1383) has occurred while \output is active []
+
+
+
+[19])
+
+[20]
+\openout2 = `Chapters/02-Presentation_structure.aux'.
+
+ (Chapters/02-Presentation_structure.tex
+Chapter 1.
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
+.
+(C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
 Package mdframed Info: mdframed works in twoside mode on input line 13.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1698,7 +1687,12 @@ tis-tiques pro-duites par l'ensemble
 
 
 
-[15]
+[21
+
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
@@ -1716,7 +1710,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[16]
+[22]
 Package mdframed Info: mdframed works in twoside mode on input line 90.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1731,7 +1725,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 124.
 
 
-[17])
+[23])
 
 
 Package fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -1740,147 +1734,147 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[18]
+[24]
 \openout2 = `Chapters/revue.aux'.
 
  (Chapters/revue.tex
-Chapter 3.
+Chapter 2.
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3.
 
-LaTeX Warning: Citation 'un2000' on page 19 undefined on input line 12.
+LaTeX Warning: Citation 'un2000' on page 25 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'who2015' on page 19 undefined on input line 12.
+LaTeX Warning: Citation 'who2015' on page 25 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'fao2015' on page 19 undefined on input line 14.
+LaTeX Warning: Citation 'fao2015' on page 25 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'bm2015' on page 19 undefined on input line 14.
+LaTeX Warning: Citation 'bm2015' on page 25 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'lo2015' on page 19 undefined on input line 14.
+LaTeX Warning: Citation 'lo2015' on page 25 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'ipar2015' on page 19 undefined on input line 16.
+LaTeX Warning: Citation 'ipar2015' on page 25 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'eca2015' on page 19 undefined on input line 16.
+LaTeX Warning: Citation 'eca2015' on page 25 undefined on input line 15.
 
 
 
-[19
+[25
 
 
 
 
 ]
 
-LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 26 undefined on input line 24.
 
 
 
-LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 26 undefined on input line 24.
 
 
 
-LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 27.
+LaTeX Warning: Citation 'SDR2025' on page 26 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 20 undefined on input line 27.
-
-
-
-LaTeX Warning: Citation 'ANSD_ENRVFFS_2023' on page 20 undefined on input line 
-29.
-
-
-LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 29.
-
-
-LaTeX Warning: Citation 'BanqueMondiale2022' on page 20 undefined on input line
- 31.
-
-
-LaTeX Warning: Citation 'ANSD_EHCVM_2018_2019' on page 20 undefined on input li
-ne 31.
-
-
-LaTeX Warning: Citation 'BM_KNOMAD_2022' on page 20 undefined on input line 31.
+LaTeX Warning: Citation 'ANSD_EDSC_2023' on page 26 undefined on input line 26.
 
 
 
-LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 33.
+LaTeX Warning: Citation 'ANSD_ENRVFFS_2023' on page 26 undefined on input line 
+28.
 
 
-LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 33.
+LaTeX Warning: Citation 'SDR2025' on page 26 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Transparency2024' on page 20 undefined on input line 3
-5.
+LaTeX Warning: Citation 'BanqueMondiale2022' on page 26 undefined on input line
+ 30.
 
 
-Overfull \hbox (14.06715pt too wide) in paragraph at lines 35--36
+LaTeX Warning: Citation 'ANSD_EHCVM_2018_2019' on page 26 undefined on input li
+ne 30.
+
+
+LaTeX Warning: Citation 'BM_KNOMAD_2022' on page 26 undefined on input line 30.
+
+
+
+LaTeX Warning: Citation 'SDR2025' on page 26 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'SDR2025' on page 26 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'Transparency2024' on page 26 undefined on input line 3
+4.
+
+
+Overfull \hbox (14.06715pt too wide) in paragraph at lines 34--35
 \T1/ptm/m/n/12 (-20) pour la lutte con-tre la cor-rup-tion (in-dice de per-cep-
 tion à 43/100 en 2024) ([]). 
  []
 
 
-LaTeX Warning: Citation 'SDR2025' on page 20 undefined on input line 37.
+LaTeX Warning: Citation 'SDR2025' on page 26 undefined on input line 36.
 
 
 
-[20]
-Package mdframed Info: mdframed works in twoside mode on input line 58.
+[26]
+Package mdframed Info: mdframed works in twoside mode on input line 57.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 58.
+(mdframed)              on input line 57.
 
 
-[21]
+[27]
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 105.
-Package mdframed Info: mdframed works in twoside mode on input line 107.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 104.
+Package mdframed Info: mdframed works in twoside mode on input line 106.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 107.
+(mdframed)              on input line 106.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 111.
 
-Underfull \vbox (badness 2662) has occurred while \output is active []
 
-
-
-[22]
-Package mdframed Info: mdframed works in twoside mode on input line 116.
+[28]
+Package mdframed Info: mdframed works in twoside mode on input line 115.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 116.
-Package mdframed Info: mdframed works in twoside mode on input line 125.
+(mdframed)              on input line 115.
+Package mdframed Info: mdframed works in twoside mode on input line 124.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 125.
+(mdframed)              on input line 124.
 )
 
-[23]
+[29]
 \openout2 = `Chapters/cadre_et_methodologie.aux'.
 
  (Chapters/cadre_et_methodologie.tex
 
-[24
+[30
 
 
 
 
 ]
-Chapter 4.
-<Pictures/ODD/ODD01.jpg, id=226, 3011.25pt x 3011.25pt>
+Chapter 3.
+<Pictures/ODD/ODD01.jpg, id=354, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD01.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 21.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD02.jpg, id=227, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD02.jpg, id=355, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD02.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD02.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD02.jpg  used on input line 26.
@@ -1895,12 +1889,12 @@ Underfull \hbox (badness 3229) in paragraph at lines 28--28
 \T1/ptm/m/n/12 (+20) la nu-tri-tion et pro-mou-voir
  []
 
-<Pictures/ODD/ODD03.jpg, id=228, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD03.jpg, id=356, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD03.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD03.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD03.jpg  used on input line 36.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD04.jpg, id=229, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD04.jpg, id=357, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD04.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD04.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD04.jpg  used on input line 41.
@@ -1920,12 +1914,18 @@ Underfull \hbox (badness 1281) in paragraph at lines 43--43
 \T1/ptm/m/n/12 (+20) pro-mou-voir des pos-si-bil-ités
  []
 
-<Pictures/ODD/ODD05.jpg, id=230, 3011.25pt x 3011.25pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[31 <./Pictures/ODD/ODD01.jpg> <./Pictures/ODD/ODD02.jpg>]
+<Pictures/ODD/ODD05.jpg, id=366, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD05.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD05.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD05.jpg  used on input line 51.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD06.jpg, id=231, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD06.jpg, id=367, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD06.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD06.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD06.jpg  used on input line 56.
@@ -1940,11 +1940,7 @@ Underfull \hbox (badness 5696) in paragraph at lines 58--58
 \T1/ptm/b/n/12 (+20) as-sainisse-ment \T1/ptm/m/n/12 (+20) -- Garan-tir
  []
 
-
-
-[25 <./Pictures/ODD/ODD01.jpg> <./Pictures/ODD/ODD02.jpg> <./Pictures/ODD/ODD03
-.jpg> <./Pictures/ODD/ODD04.jpg>]
-<Pictures/ODD/ODD07.jpg, id=237, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD07.jpg, id=368, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD07.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD07.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD07.jpg  used on input line 66.
@@ -1954,7 +1950,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 68--68
 \T1/ptm/b/n/12 (+20) et d'un coût abor-d-able \T1/ptm/m/n/12 (+20) --
  []
 
-<Pictures/ODD/ODD08.jpg, id=238, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD08.jpg, id=369, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD08.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD08.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD08.jpg  used on input line 71.
@@ -1969,7 +1965,7 @@ Underfull \hbox (badness 2478) in paragraph at lines 73--73
 \T1/ptm/m/n/12 (+20) Pro-mou-voir une crois-sance
  []
 
-<Pictures/ODD/ODD09.jpg, id=239, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD09.jpg, id=370, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD09.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD09.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD09.jpg  used on input line 81.
@@ -1979,41 +1975,21 @@ Underfull \hbox (badness 2426) in paragraph at lines 83--83
 \T1/ptm/m/n/12 (+20) tion durable et en-cour-ager
  []
 
-<Pictures/ODD/ODD10.jpg, id=240, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD10.jpg, id=371, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD10.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD10.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD10.jpg  used on input line 86.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD11.jpg, id=241, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD11.jpg, id=372, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD11.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD11.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD11.jpg  used on input line 96.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD12.jpg, id=242, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD12.jpg, id=373, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD12.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD12.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD12.jpg  used on input line 101.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD13.jpg, id=243, 3011.25pt x 3011.25pt>
-File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
-<use Pictures/ODD/ODD13.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 111.
-(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-
-Underfull \hbox (badness 7613) in paragraph at lines 113--113
-[]\T1/ptm/b/n/12 (+20) ODD 13 : Lutte con-
- []
-
-<Pictures/ODD/ODD14.jpg, id=244, 3011.25pt x 3011.25pt>
-File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
-<use Pictures/ODD/ODD14.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 116.
-(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-
-Underfull \hbox (badness 2334) in paragraph at lines 118--118
-\T1/ptm/m/n/12 (+20) les mers et les ressources
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2026,10 +2002,30 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[26 <./Pictures/ODD/ODD05.jpg> <./Pictures/ODD/ODD06.jpg> <./Pictures/ODD/ODD07
-.jpg> <./Pictures/ODD/ODD08.jpg> <./Pictures/ODD/ODD09.jpg> <./Pictures/ODD/ODD
-10.jpg> <./Pictures/ODD/ODD11.jpg> <./Pictures/ODD/ODD12.jpg>]
-<Pictures/ODD/ODD15.jpg, id=249, 3011.25pt x 3011.25pt>
+[32 <./Pictures/ODD/ODD03.jpg> <./Pictures/ODD/ODD04.jpg> <./Pictures/ODD/ODD05
+.jpg> <./Pictures/ODD/ODD06.jpg> <./Pictures/ODD/ODD07.jpg> <./Pictures/ODD/ODD
+08.jpg> <./Pictures/ODD/ODD09.jpg> <./Pictures/ODD/ODD10.jpg>]
+<Pictures/ODD/ODD13.jpg, id=378, 3011.25pt x 3011.25pt>
+File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD13.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 111.
+(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
+
+Underfull \hbox (badness 7613) in paragraph at lines 113--113
+[]\T1/ptm/b/n/12 (+20) ODD 13 : Lutte con-
+ []
+
+<Pictures/ODD/ODD14.jpg, id=379, 3011.25pt x 3011.25pt>
+File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD14.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 116.
+(pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
+
+Underfull \hbox (badness 2334) in paragraph at lines 118--118
+\T1/ptm/m/n/12 (+20) les mers et les ressources
+ []
+
+<Pictures/ODD/ODD15.jpg, id=380, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD15.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD15.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD15.jpg  used on input line 126.
@@ -2044,12 +2040,12 @@ Underfull \hbox (badness 1052) in paragraph at lines 128--128
 \T1/ptm/m/n/12 (+20) -- Préserver et restau-rer les
  []
 
-<Pictures/ODD/ODD16.jpg, id=250, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD16.jpg, id=381, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD16.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD16.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD16.jpg  used on input line 131.
 (pdftex.def)             Requested size: 51.2145pt x 51.18597pt.
-<Pictures/ODD/ODD17.jpg, id=251, 3011.25pt x 3011.25pt>
+<Pictures/ODD/ODD17.jpg, id=382, 3011.25pt x 3011.25pt>
 File: Pictures/ODD/ODD17.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD17.jpg>
 Package pdftex.def Info: Pictures/ODD/ODD17.jpg  used on input line 141.
@@ -2059,12 +2055,10 @@ Package mdframed Info: mdframed detected package amsthm
  changed the theorem header of amsthm
 (mdframed)              on input line 172.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[27 <./Pictures/ODD/ODD13.jpg> <./Pictures/ODD/ODD14.jpg> <./Pictures/ODD/ODD15
-.jpg> <./Pictures/ODD/ODD16.jpg> <./Pictures/ODD/ODD17.jpg>]
+[33 <./Pictures/ODD/ODD11.jpg> <./Pictures/ODD/ODD12.jpg> <./Pictures/ODD/ODD13
+.jpg> <./Pictures/ODD/ODD14.jpg> <./Pictures/ODD/ODD15.jpg> <./Pictures/ODD/ODD
+16.jpg> <./Pictures/ODD/ODD17.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 215.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2073,9 +2067,6 @@ Package mdframed Info: mdframed works in twoside mode on input line 231.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 231.
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 248.
 
 
 
@@ -2085,30 +2076,208 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[28])
+[34]
+Package mdframed Info: Not enough space on this page on input line 248.
+)
 
-[29]
+[35]
 \openout2 = `Chapters/Stat_desc.aux'.
 
  (Chapters/Stat_desc.tex
-Package mdframed Info: mdframed works in twoside mode on input line 31.
+
+[36
+
+
+
+
+]
+Chapter 4.
+Package mdframed Info: mdframed works in twoside mode on input line 33.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 31.
+(mdframed)              on input line 33.
 File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
 <use Pictures/ODD/ODD01.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 34.
+Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 36.
 (pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
-Package mdframed Info: Not enough space on this page on input line 41.
-Package mdframed Info: mdframed works in twoside mode on input line 43.
+Package mdframed Info: mdframed works in twoside mode on input line 45.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 43.
-File: Pictures/ODD/ODD01.jpg Graphic file (type jpg)
-<use Pictures/ODD/ODD01.jpg>
-Package pdftex.def Info: Pictures/ODD/ODD01.jpg  used on input line 74.
-(pdftex.def)             Requested size: 298.75264pt x 298.75334pt.
-)
+(mdframed)              on input line 45.
+
+
+[37]
+<Pictures/graphs/ODD1_scores.png, id=416, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD1_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD1_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD1_scores.png  used on input line 89
+.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 122--122
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[38 <./Pictures/graphs/ODD1_scores.png>]
+
+[39]
+Package mdframed Info: mdframed works in twoside mode on input line 200.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 200.
+File: Pictures/ODD/ODD02.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD02.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD02.jpg  used on input line 203.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 211.
+<Pictures/graphs/graph_sous_alimentation.png, id=427, 526.96875pt x 325.215pt>
+File: Pictures/graphs/graph_sous_alimentation.png Graphic file (type png)
+<use Pictures/graphs/graph_sous_alimentation.png>
+Package pdftex.def Info: Pictures/graphs/graph_sous_alimentation.png  used on i
+nput line 224.
+(pdftex.def)             Requested size: 384.1096pt x 237.06256pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[40 <./Pictures/graphs/graph_sous_alimentation.png>]
+<Pictures/graphs/graph_malnutrition.png, id=433, 526.96875pt x 325.215pt>
+File: Pictures/graphs/graph_malnutrition.png Graphic file (type png)
+<use Pictures/graphs/graph_malnutrition.png>
+Package pdftex.def Info: Pictures/graphs/graph_malnutrition.png  used on input 
+line 244.
+(pdftex.def)             Requested size: 384.1096pt x 237.06256pt.
+<Pictures/graphs/ODD2_scores.png, id=434, 1002.8667pt x 715.473pt>
+File: Pictures/graphs/ODD2_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD2_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD2_scores.png  used on input line 25
+3.
+(pdftex.def)             Requested size: 405.45047pt x 289.26279pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[41 <./Pictures/graphs/graph_malnutrition.png>]
+Overfull \hbox (71.49345pt too wide) in alignment at lines 280--280
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[42 <./Pictures/graphs/ODD2_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 293.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 293.
+File: Pictures/ODD/ODD03.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD03.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD03.jpg  used on input line 296.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 306.
+<Pictures/graphs/matmort.png, id=445, 529.98pt x 326.93571pt>
+File: Pictures/graphs/matmort.png Graphic file (type png)
+<use Pictures/graphs/matmort.png>
+Package pdftex.def Info: Pictures/graphs/matmort.png  used on input line 314.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/mortality.png, id=446, 529.98pt x 326.93571pt>
+File: Pictures/graphs/mortality.png Graphic file (type png)
+<use Pictures/graphs/mortality.png>
+Package pdftex.def Info: Pictures/graphs/mortality.png  used on input line 329.
+
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+
+
+[43 <./Pictures/graphs/matmort.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[44 <./Pictures/graphs/mortality.png>]
+<Pictures/graphs/diseases.png, id=458, 529.98pt x 326.93571pt>
+File: Pictures/graphs/diseases.png Graphic file (type png)
+<use Pictures/graphs/diseases.png>
+Package pdftex.def Info: Pictures/graphs/diseases.png  used on input line 350.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/ODD3_scores.png, id=459, 1006.4802pt x 715.473pt>
+File: Pictures/graphs/ODD3_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD3_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD3_scores.png  used on input line 36
+0.
+(pdftex.def)             Requested size: 405.45047pt x 288.21474pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[45 <./Pictures/graphs/diseases.png>]
+Overfull \hbox (39.84889pt too wide) in alignment at lines 399--399
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[46 <./Pictures/graphs/ODD3_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 407.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 407.
+File: Pictures/ODD/ODD04.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD04.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD04.jpg  used on input line 410.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 417.
+<Pictures/graphs/sdg4_primary_second.png, id=470, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg4_primary_second.png Graphic file (type png)
+<use Pictures/graphs/sdg4_primary_second.png>
+Package pdftex.def Info: Pictures/graphs/sdg4_primary_second.png  used on input
+ line 431.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+
+[47 <./Pictures/graphs/sdg4_primary_second.png>]
+<Pictures/graphs/ODD4_scores.png, id=476, 1006.7211pt x 715.473pt>
+File: Pictures/graphs/ODD4_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD4_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD4_scores.png  used on input line 47
+2.
+(pdftex.def)             Requested size: 405.45047pt x 288.16016pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2120,36 +2289,735 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
 
-[30
+[48]
+! Misplaced \noalign.
+\rowcolor ->\noalign 
+                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
+l.511 	\end{tabularx}
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\rowcolor ->\noalign 
+                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
+l.511 	\end{tabularx}
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\rowcolor ->\noalign 
+                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
+l.511 	\end{tabularx}
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (80.90103pt too wide) in alignment at lines 511--511
+[][][][][] 
+ []
+
+! Undefined control sequence.
+l.519 \newpages
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package mdframed Info: mdframed works in twoside mode on input line 520.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 520.
+File: Pictures/ODD/ODD05.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD05.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD05.jpg  used on input line 523.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+
+
+[49 <./Pictures/graphs/ODD4_scores.png>]
+Package mdframed Info: Not enough space on this page on input line 530.
+<Pictures/graphs/sdg5_parl.png, id=487, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg5_parl.png Graphic file (type png)
+<use Pictures/graphs/sdg5_parl.png>
+Package pdftex.def Info: Pictures/graphs/sdg5_parl.png  used on input line 543.
+
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[50 <./Pictures/graphs/sdg5_parl.png>]
+<Pictures/graphs/sdg5_familyplanning.png, id=493, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg5_familyplanning.png Graphic file (type png)
+<use Pictures/graphs/sdg5_familyplanning.png>
+Package pdftex.def Info: Pictures/graphs/sdg5_familyplanning.png  used on input
+ line 563.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/ODD5_scores.png, id=494, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD5_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD5_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD5_scores.png  used on input line 57
+5.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[51 <./Pictures/graphs/sdg5_familyplanning.png>]
+Overfull \hbox (29.8283pt too wide) in alignment at lines 608--608
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[52 <./Pictures/graphs/ODD5_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 616.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 616.
+File: Pictures/ODD/ODD06.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD06.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD06.jpg  used on input line 619.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 626.
+<Pictures/graphs/sdg6_water.png, id=505, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg6_water.png Graphic file (type png)
+<use Pictures/graphs/sdg6_water.png>
+Package pdftex.def Info: Pictures/graphs/sdg6_water.png  used on input line 641
+.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+
+[53 <./Pictures/graphs/sdg6_water.png>]
+Overfull \hbox (6.98277pt too wide) in paragraph at lines 662--663
+[]\T1/ptm/m/n/12 (-20) L'indicateur util-isé est le prélève-ment d'eau douce ex
+-primé en pour-cent-age des ressources
+ []
+
+<Pictures/graphs/sdg6_freshwat.png, id=513, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg6_freshwat.png Graphic file (type png)
+<use Pictures/graphs/sdg6_freshwat.png>
+Package pdftex.def Info: Pictures/graphs/sdg6_freshwat.png  used on input line 
+666.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/ODD6_scores.png, id=514, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD6_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD6_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD6_scores.png  used on input line 67
+8.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[54 <./Pictures/graphs/sdg6_freshwat.png>]
+Overfull \hbox (100.91635pt too wide) in alignment at lines 699--699
+[][][][][] 
+ []
+
+
+
+[55 <./Pictures/graphs/ODD6_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 708.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 708.
+File: Pictures/ODD/ODD07.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD07.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD07.jpg  used on input line 711.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 718.
+<Pictures/graphs/sdg7__elecac.png, id=527, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg7__elecac.png Graphic file (type png)
+<use Pictures/graphs/sdg7__elecac.png>
+Package pdftex.def Info: Pictures/graphs/sdg7__elecac.png  used on input line 7
+30.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/ODD7_scores.png, id=528, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD7_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD7_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD7_scores.png  used on input line 74
+5.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[56 <./Pictures/graphs/sdg7__elecac.png>]
+Overfull \hbox (55.01633pt too wide) in alignment at lines 760--760
+[][][][][] 
+ []
+
+
+
+[57 <./Pictures/graphs/ODD7_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 769.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 769.
+File: Pictures/ODD/ODD08.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD08.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD08.jpg  used on input line 772.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 779.
+<Pictures/graphs/sdg8_unemp.png, id=539, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg8_unemp.png Graphic file (type png)
+<use Pictures/graphs/sdg8_unemp.png>
+Package pdftex.def Info: Pictures/graphs/sdg8_unemp.png  used on input line 791
+.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/ODD8_scores.png, id=540, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD8_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD8_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD8_scores.png  used on input line 80
+7.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[58 <./Pictures/graphs/sdg8_unemp.png>]
+Overfull \hbox (80.1809pt too wide) in alignment at lines 836--836
+[][][][][] 
+ []
+
+
+
+[59 <./Pictures/graphs/ODD8_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 845.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 845.
+File: Pictures/ODD/ODD09.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD09.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD09.jpg  used on input line 848.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 855.
+<Pictures/graphs/sdg9_intuse.png, id=552, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg9_intuse.png Graphic file (type png)
+<use Pictures/graphs/sdg9_intuse.png>
+Package pdftex.def Info: Pictures/graphs/sdg9_intuse.png  used on input line 86
+8.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+<Pictures/graphs/sdg9_articles.png, id=553, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg9_articles.png Graphic file (type png)
+<use Pictures/graphs/sdg9_articles.png>
+Package pdftex.def Info: Pictures/graphs/sdg9_articles.png  used on input line 
+875.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[60 <./Pictures/graphs/sdg9_intuse.png>]
+<Pictures/graphs/ODD9_scores.png, id=559, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD9_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD9_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD9_scores.png  used on input line 88
+5.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Overfull \hbox (43.73734pt too wide) in alignment at lines 904--904
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[61 <./Pictures/graphs/sdg9_articles.png> <./Pictures/graphs/ODD9_scores.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[62]
+Package mdframed Info: mdframed works in twoside mode on input line 912.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 912.
+File: Pictures/ODD/ODD10.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD10.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD10.jpg  used on input line 915.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 922.
+
+Overfull \hbox (11.11365pt too wide) in paragraph at lines 927--929
+\T1/ptm/m/n/12 (-20) La cible 10.1 vise à as-surer, d'ici à 2030, une crois-san
+ce in-clu-sive en fa-vorisant l'augmentation
+ []
+
+<Pictures/graphs/ODD10_scores.png, id=572, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD10_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD10_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD10_scores.png  used on input line 9
+59.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[63]
+Overfull \hbox (21.48932pt too wide) in alignment at lines 976--976
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[64 <./Pictures/graphs/ODD10_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 985.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 985.
+File: Pictures/ODD/ODD11.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD11.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD11.jpg  used on input line 988.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 995.
+<Pictures/graphs/ODD11_scores.png, id=583, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD11_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD11_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD11_scores.png  used on input line 1
+062.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[65]
+Underfull \hbox (badness 10000) in alignment at lines 1075--1075
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[66 <./Pictures/graphs/ODD11_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 1084.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1084.
+File: Pictures/ODD/ODD12.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD12.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD12.jpg  used on input line 1087.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1094.
+<Pictures/graphs/sdg12_pollprod.png, id=594, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg12_pollprod.png Graphic file (type png)
+<use Pictures/graphs/sdg12_pollprod.png>
+Package pdftex.def Info: Pictures/graphs/sdg12_pollprod.png  used on input line
+ 1104.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+<Pictures/graphs/sdg12_pollimp.png, id=595, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg12_pollimp.png Graphic file (type png)
+<use Pictures/graphs/sdg12_pollimp.png>
+Package pdftex.def Info: Pictures/graphs/sdg12_pollimp.png  used on input line 
+1117.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[67 <./Pictures/graphs/sdg12_pollprod.png>]
+<Pictures/graphs/ODD12_scores.png, id=604, 1003.1076pt x 715.473pt>
+File: Pictures/graphs/ODD12_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD12_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD12_scores.png  used on input line 1
+133.
+(pdftex.def)             Requested size: 405.45047pt x 289.18637pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[68 <./Pictures/graphs/sdg12_pollimp.png>]
+Underfull \hbox (badness 10000) in alignment at lines 1145--1145
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 28.14996pt, for example:
+(fancyhdr)                \setlength{\headheight}{28.14996pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-13.64996pt}.
+
+[69 <./Pictures/graphs/ODD12_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 1154.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1154.
+File: Pictures/ODD/ODD13.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD13.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD13.jpg  used on input line 1157.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1164.
+<Pictures/graphs/sdg13_co2gcp.png, id=615, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg13_co2gcp.png Graphic file (type png)
+<use Pictures/graphs/sdg13_co2gcp.png>
+Package pdftex.def Info: Pictures/graphs/sdg13_co2gcp.png  used on input line 1
+174.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+<Pictures/graphs/sdg13_ghgimport.png, id=616, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg13_ghgimport.png Graphic file (type png)
+<use Pictures/graphs/sdg13_ghgimport.png>
+Package pdftex.def Info: Pictures/graphs/sdg13_ghgimport.png  used on input lin
+e 1187.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+
+Underfull \vbox (badness 2205) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[70 <./Pictures/graphs/sdg13_co2gcp.png>]
+<Pictures/graphs/ODD13_scores.png, id=624, 1002.3849pt x 715.473pt>
+File: Pictures/graphs/ODD13_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD13_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD13_scores.png  used on input line 1
+204.
+(pdftex.def)             Requested size: 405.45047pt x 289.3938pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[71 <./Pictures/graphs/sdg13_ghgimport.png>]
+Underfull \hbox (badness 10000) in alignment at lines 1215--1215
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[72 <./Pictures/graphs/ODD13_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 1223.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1223.
+File: Pictures/ODD/ODD14.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD14.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD14.jpg  used on input line 1226.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1233.
+<Pictures/graphs/sdg14_cpma.png, id=635, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg14_cpma.png Graphic file (type png)
+<use Pictures/graphs/sdg14_cpma.png>
+Package pdftex.def Info: Pictures/graphs/sdg14_cpma.png  used on input line 124
+3.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+<Pictures/graphs/sdg14_fishstocks.png, id=636, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg14_fishstocks.png Graphic file (type png)
+<use Pictures/graphs/sdg14_fishstocks.png>
+Package pdftex.def Info: Pictures/graphs/sdg14_fishstocks.png  used on input li
+ne 1256.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[73 <./Pictures/graphs/sdg14_cpma.png>]
+<Pictures/graphs/sdg14_trawl.png, id=646, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg14_trawl.png Graphic file (type png)
+<use Pictures/graphs/sdg14_trawl.png>
+Package pdftex.def Info: Pictures/graphs/sdg14_trawl.png  used on input line 12
+65.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[74 <./Pictures/graphs/sdg14_fishstocks.png> <./Pictures/graphs/sdg14_trawl.png
+>]
+<Pictures/graphs/ODD14_scores.png, id=653, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD14_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD14_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD14_scores.png  used on input line 1
+281.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Overfull \hbox (53.68161pt too wide) in alignment at lines 1292--1292
+[][][][][] 
+ []
+
+
+
+[75 <./Pictures/graphs/ODD14_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 1301.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1301.
+File: Pictures/ODD/ODD15.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD15.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD15.jpg  used on input line 1304.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1311.
+<Pictures/graphs/sdg15_cpta.png, id=659, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg15_cpta.png Graphic file (type png)
+<use Pictures/graphs/sdg15_cpta.png>
+Package pdftex.def Info: Pictures/graphs/sdg15_cpta.png  used on input line 132
+4.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+<Pictures/graphs/sdg15_cpfa.png, id=660, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg15_cpfa.png Graphic file (type png)
+<use Pictures/graphs/sdg15_cpfa.png>
+Package pdftex.def Info: Pictures/graphs/sdg15_cpfa.png  used on input line 133
+3.
+(pdftex.def)             Requested size: 320.0935pt x 197.45998pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[76 <./Pictures/graphs/sdg15_cpta.png>]
+<Pictures/graphs/ODD15_scores.png, id=668, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD15_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD15_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD15_scores.png  used on input line 1
+346.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 1359--1359
+[][][][][] 
+ []
+
+
+
+[77 <./Pictures/graphs/sdg15_cpfa.png> <./Pictures/graphs/ODD15_scores.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[78]
+Package mdframed Info: mdframed works in twoside mode on input line 1369.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1369.
+File: Pictures/ODD/ODD16.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD16.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD16.jpg  used on input line 1372.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1379.
+<Pictures/graphs/ODD16_scores.png, id=679, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD16_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD16_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD16_scores.png  used on input line 1
+396.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[79]
+Overfull \hbox (71.87648pt too wide) in alignment at lines 1413--1413
+[][][][][] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[80 <./Pictures/graphs/ODD16_scores.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 1425.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1425.
+File: Pictures/ODD/ODD17.jpg Graphic file (type jpg)
+<use Pictures/ODD/ODD17.jpg>
+Package pdftex.def Info: Pictures/ODD/ODD17.jpg  used on input line 1428.
+(pdftex.def)             Requested size: 61.91617pt x 61.89183pt.
+Package mdframed Info: Not enough space on this page on input line 1435.
+<Pictures/graphs/sdg17_govex.png, id=691, 529.98pt x 326.93571pt>
+File: Pictures/graphs/sdg17_govex.png Graphic file (type png)
+<use Pictures/graphs/sdg17_govex.png>
+Package pdftex.def Info: Pictures/graphs/sdg17_govex.png  used on input line 14
+45.
+(pdftex.def)             Requested size: 341.43437pt x 210.62497pt.
+
+
+[81 <./Pictures/graphs/sdg17_govex.png>]
+<Pictures/graphs/ODD17_scores.png, id=698, 1004.553pt x 715.473pt>
+File: Pictures/graphs/ODD17_scores.png Graphic file (type png)
+<use Pictures/graphs/ODD17_scores.png>
+Package pdftex.def Info: Pictures/graphs/ODD17_scores.png  used on input line 1
+459.
+(pdftex.def)             Requested size: 405.45047pt x 288.77151pt.
+
+Overfull \hbox (47.45757pt too wide) in alignment at lines 1478--1478
+[][][][][] 
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.73pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.73pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.23pt}.
+
+[82 <./Pictures/graphs/ODD17_scores.png>]
+\openout2 = `Chapters/analyse_interpretation.aux'.
+
+ (Chapters/analyse_interpretation.tex
+Chapter 5.
+
+
+[83
+
 
 
 
 ]
+<Pictures/graphs/distribution_MC_ODD.png, id=710, 529.98pt x 326.93571pt>
+File: Pictures/graphs/distribution_MC_ODD.png Graphic file (type png)
+<use Pictures/graphs/distribution_MC_ODD.png>
+Package pdftex.def Info: Pictures/graphs/distribution_MC_ODD.png  used on input
+ line 26.
+(pdftex.def)             Requested size: 426.79135pt x 263.28496pt.
+<Pictures/graphs/distribution_MC_global.png, id=712, 529.98pt x 326.93571pt>
+File: Pictures/graphs/distribution_MC_global.png Graphic file (type png)
+<use Pictures/graphs/distribution_MC_global.png>
+Package pdftex.def Info: Pictures/graphs/distribution_MC_global.png  used on in
+put line 38.
+(pdftex.def)             Requested size: 362.77525pt x 223.78996pt.
 
-[31]
-
-[32
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-]
+[84 <./Pictures/graphs/distribution_MC_ODD.png>])
 
-LaTeX Warning: Empty bibliography on input line 137.
+[85 <./Pictures/graphs/distribution_MC_global.png>]
+
+[86
 
 
 
-[33]
+] (main.toc)
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
-[34
 
-]
-\tf@ptc=\write6
-\openout6 = `main.ptc'.
 
- (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
-(Chapters/01-Introduction.aux) (Chapters/02-Presentation_structure.aux)
-(Chapters/revue.aux) (Chapters/cadre_et_methodologie.aux)
-(Chapters/Stat_desc.aux))
+[87
+
+
+] (main.aux (Chapters/00-Decharge.aux) (Chapters/00-Remerciements.aux)
+(Chapters/sigles.aux) (Chapters/01-Introduction.aux)
+(Chapters/02-Presentation_structure.aux) (Chapters/revue.aux)
+(Chapters/cadre_et_methodologie.aux) (Chapters/Stat_desc.aux)
+(Chapters/analyse_interpretation.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -2157,6 +3025,9 @@ L3 programming layer <2025-08-13>
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -2168,33 +3039,28 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39325 strings out of 468132
- 772980 string characters out of 5432142
- 1766362 words of memory out of 5000000
- 66751 multiletter control sequences out of 15000+600000
- 757219 words of font info for 444 fonts, out of 8000000 for 9000
+ 40091 strings out of 468132
+ 792538 string characters out of 5432142
+ 1783343 words of memory out of 5000000
+ 67344 multiletter control sequences out of 15000+600000
+ 743159 words of font info for 445 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,94p,1199b,2878s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
- replaced by a fixed one
-
- <C:\Users\hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.
-pk><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-ex10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
-mes/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
-/utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
-mri8a.pfb>
-Output written on main.pdf (34 pages, 21641291 bytes).
+ 89i,13n,94p,1379b,2242s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cme
+x10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/avantgar/uagd8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/avantgar/uagk8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw
+/symbol/usyr.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
+utmr8a.pfb><C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
+ri8a.pfb>
+Output written on main.pdf (87 pages, 24921216 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
- 139999 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 870 PDF objects out of 1000 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
+ 118185 words of extra memory for PDF output out of 128383 (max. 10000000)
 

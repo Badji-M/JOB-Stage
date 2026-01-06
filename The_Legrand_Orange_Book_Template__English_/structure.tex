@@ -35,6 +35,8 @@
 
 \usepackage{booktabs} % Required for nicer horizontal rules in tables
 
+\usepackage{tocloft} % Customize table of contents, lists of figures and tables
+
 \usepackage{xcolor} % Required for specifying colors by name
 \definecolor{myblue}{RGB}{0,102,204} % un bleu un peu vif
  % Define the orange color used for highlighting throughout the book
@@ -48,6 +50,7 @@
 \usepackage{tabularx}   % pour tableau flexible
 \usepackage{array}      % pour ajuster alignement vertical
 \usepackage[table]{xcolor} % si tu veux rajouter des couleurs de fond
+\usepackage{colortbl}   % pour cellcolor
 \usepackage{longtable} % à mettre dans le préambule
 %===================== ME ======================
 
@@ -524,7 +527,7 @@ innerbottommargin=5pt]{cBox}
 		align=center,
 		anchor=north west,
 		text=white
-		] (chapnum) at (2cm,-3cm) {
+		] (chapnum) at (2cm,-5cm) {
 			\small\sffamily Chapitre \\[5pt]
 			\fontsize{60}{70}\selectfont\bfseries \thechapter
 		};
@@ -534,15 +537,15 @@ innerbottommargin=5pt]{cBox}
 		anchor=west,
 		align=left,
 		color=myblue,
-		text width=0.7\textwidth % Limite la largeur du texte
+		text width=0.9\textwidth % Limite la largeur du texte
 		] at ([xshift=1cm]chapnum.east) {
-			\huge\sffamily\bfseries #1
+			\LARGE\sffamily\bfseries #1
 		};
 		
 		\end{tikzpicture}
 	};
 \end{tikzpicture}
-\vspace*{4cm}
+\vspace*{5.5cm}
 }
 
 % Chapitres non numérotés
@@ -551,27 +554,18 @@ innerbottommargin=5pt]{cBox}
 \node at (current page.north west) {
 	\begin{tikzpicture}[remember picture,overlay]
 	
-	% Carré vide pour alignement
+	% Titre avec trait bleu en dessous
 	\node[
-	draw=myblue,
-	fill=myblue,
-	rounded corners=6pt,
-	minimum width=3cm,
-	minimum height=3cm,
-	align=center,
 	anchor=north west,
-	text=white
-	] (chapnum) at (2cm,-3cm) {};
-	
-	% Titre à droite (même logique)
-	\node[
-	anchor=west,
 	align=left,
 	color=myblue,
-	text width=0.7\textwidth % Limite la largeur aussi
-	] at ([xshift=1cm]chapnum.east) {
-		\huge\sffamily\bfseries #1
+	text width=0.85\textwidth
+	] (schaptitle) at (2cm,-5cm) {
+		\LARGE\sffamily\bfseries\linespread{1.3}\selectfont #1
 	};
+	
+	% Trait bleu horizontal sous le titre
+	\draw[line width=2pt, color=myblue] (2cm, -6.5cm) -- (\paperwidth-2cm, -6.5cm);
 	
 	\end{tikzpicture}
 };
@@ -624,6 +618,3 @@ addtohook={%
 %============================= ME ================================
 \usepackage[backend=biber,style=authoryear]{biblatex} 
 \addbibresource{bibliography.bib} % remplace par le nom exact de ton .bib
-
-
-
